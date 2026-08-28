@@ -173,7 +173,7 @@ public:
 <td width="50%">
 
 #### 🌆 Vice City - Downtown
-[![Vice City](https://img.shields.io/badge/Vice_City-Downtown-00ff88?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAA0wAAANMBeStVyQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAADTSURBVCjPhZGxSgNBFEXPm91sQiJYiGBhYaGFhZ1YWFn4Af6AH+AH+AH+gL2FhYWFhZ1YiCAiJpvd7M7MnTfZTZYkFh4YmHnvnHvfzJtRVUopUSqltNbrSillrVX/sN/vTdd1TZZltW3bJkmSJAzDEEJACEEIIYQQhBCEEIQQhBCEEEII/g+21lprrXXOOeec67ouT5Ik3+/3+X6/z/f7fb7f7/P9fp/v93ve933e933f933e933f933e933f933e9/0Pv8/zPM/zPM/zPM/zPM/zPM/zPM/z/+7rA4w+hI3jCKaVAAAAAElFTkSuQmCC&logoColor=white)](https://cyberleakgta6.com)
+[![Vice City Downtown](images/screenshots/vice-city-downtown.svg)](https://cyberleakgta6.com)
 
 **🏙️ Modern Miami-inspired cityscape**  
 **🌊 Beach areas & downtown**  
@@ -185,7 +185,7 @@ public:
 <td width="50%">
 
 #### 👩 Lucia - Female Protagonist  
-[![Lucia](https://img.shields.io/badge/Lucia-First_Female_GTA_Hero-ff0080?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAA0wAAANMBeStVyQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAADTSURBVCjPhZGxSgNBFEXPm91sQiJYiGBhYaGFhZ1YWFn4Af6AH+AH+AH+gL2FhYWFhZ1YiCAiJpvd7M7MnTfZTZYkFh4YmHnvnHvfzJtRVUopUSqltNbrSillrVX/sN/vTdd1TZZltW3bJkmSJAzDEEJACEEIIYQQhBCEEIQQhBCEEEII/g+21lprrXXOOeec67ouT5Ik3+/3+X6/z/f7fb7f7/P9fp/v93ve933e933f933e933f933e933f933e9/0Pv8/zPM/zPM/zPM/zPM/zPM/zPM/z/+7rA4w+hI3jCKaVAAAAAElFTkSuQmCC&logoColor=white)](https://cyberleakgta6.com)
+[![Lucia Character](images/screenshots/lucia-protagonist.svg)](https://cyberleakgta6.com)
 
 **💪 First female GTA protagonist**  
 **🎭 Complex character development**  
@@ -199,7 +199,7 @@ public:
 <td width="50%">
 
 #### 🏦 Bank Heist Mission
-[![Heist](https://img.shields.io/badge/Bank_Heist-Mission_Gameplay-00d4ff?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAA0wAAANMBeStVyQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAADTSURBVCjPhZGxSgNBFEXPm91sQiJYiGBhYaGFhZ1YWFn4Af6AH+AH+AH+gL2FhYWFhZ1YiCAiJpvd7M7MnTfZTZYkFh4YmHnvnHvfzJtRVUopUSqltNbrSillrVX/sN/vTdd1TZZltW3bJkmSJAzDEEJACEEIIYQQhBCEEIQQhBCEEEII/g+21lprrXXOOeec67ouT5Ik3+/3+X6/z/f7fb7f7/P9fp/v93ve933e933f933e933f933e933f933e9/0Pv8/zPM/zPM/zPM/zPM/zPM/zPM/z/+7rA4w+hI3jCKaVAAAAAElFTkSuQmCC&logoColor=white)](https://cyberleakgta6.com)
+[![Bank Heist](images/screenshots/bank-heist-mission.svg)](https://cyberleakgta6.com)
 
 **🔫 Early mission gameplay footage**  
 **👥 Co-op mechanics (Jason & Lucia)**  
@@ -211,7 +211,7 @@ public:
 <td width="50%">
 
 #### 🚗 Vehicle Showcase
-[![Vehicles](https://img.shields.io/badge/Vehicles-Physics_&_Damage-ffaa00?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAA0wAAANMBeStVyQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAADTSURBVCjPhZGxSgNBFEXPm91sQiJYiGBhYaGFhZ1YWFn4Af6AH+AH+AH+gL2FhYWFhZ1YiCAiJpvd7M7MnTfZTZYkFh4YmHnvnHvfzJtRVUopUSqltNbrSillrVX/sN/vTdd1TZZltW3bJkmSJAzDEEJACEEIIYQQhBCEEIQQhBCEEEII/g+21lprrXXOOeec67ouT5Ik3+/3+X6/z/f7fb7f7/P9fp/v93ve933e933f933e933f933e933f933e9/0Pv8/zPM/zPM/zPM/zPM/zPM/zPM/z/+7rA4w+hI3jCKaVAAAAAElFTkSuQmCC&logoColor=white)](https://cyberleakgta6.com)
+[![Vehicles](images/screenshots/vehicle-showcase.svg)](https://cyberleakgta6.com)
 
 **🏎️ 150+ vehicles from leak**  
 **⚙️ Realistic physics engine**  
