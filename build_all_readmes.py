@@ -178,6 +178,150 @@ def _visual_download_section(lang: str, t: dict) -> str:
     )
 
 
+ABOUT_SEO_I18N = {
+    "en": {
+        "title": "🔗 About CyberLeak GTA 6 — Official Download Hub",
+        "site_label": "Official Website",
+        "body": (
+            "**CyberLeakGTA6.com** is the official archive for the **August 2026 CyberLeak / CyberLeek GTA 6 playable build**. "
+            "Download the **leaked development build**, **GTA 6 Launcher**, **90+ leak videos**, **Vice City map**, **Jason & Lucia gameplay**, and **3GB+ source code**. "
+            "This repo documents how to **download GTA 6 free**, install the **playable PC build**, and avoid **fake 113GB malware torrents**. "
+            "Not affiliated with Rockstar Games — support the official **GTA VI release on November 19, 2026**."
+        ),
+        "tags": "GTA 6 download, GTA 6 CyberLeak, CyberLeek GTA 6, GTA 6 leaked build, GTA 6 playable build, download GTA 6 free, GTA 6 leak 2026, GTA 6 Vice City, GTA 6 launcher, play GTA 6 now, GTA VI download, Grand Theft Auto 6 download, GTA 6 PC download, official GTA 6 leak, safe GTA 6 download",
+    },
+    "ru": {
+        "title": "🔗 О CyberLeak GTA 6 — официальный хаб загрузки",
+        "site_label": "Официальный сайт",
+        "body": (
+            "**CyberLeakGTA6.com** — официальный архив **играбельного билда GTA 6 от CyberLeak / CyberLeek (август 2026)**. "
+            "Скачай **слитый билд разработки**, **лаунчер GTA 6**, **90+ видео слива**, **карту Vice City**, **геймплей Jason & Lucia** и **3ГБ+ исходного кода**. "
+            "Этот репозиторий объясняет, как **скачать GTA 6 бесплатно**, установить **играбельную PC-сборку** и не попасть на **фейковый торрент 113 ГБ с вирусами**. "
+            "Не связано с Rockstar Games — поддержи официальный релиз **GTA VI 19 ноября 2026**."
+        ),
+        "tags": "скачать GTA 6, GTA 6 CyberLeak, CyberLeek GTA 6, слитый билд GTA 6, играбельный билд GTA 6, скачать GTA 6 бесплатно, слив GTA 6 2026, GTA 6 Вайс-Сити, лаунчер GTA 6, играть в GTA 6 сейчас, скачать GTA VI, Grand Theft Auto 6 скачать, GTA 6 ПК, официальный слив GTA 6",
+    },
+    "es": {
+        "title": "🔗 Sobre CyberLeak GTA 6 — Hub oficial de descarga",
+        "site_label": "Sitio oficial",
+        "body": (
+            "**CyberLeakGTA6.com** es el archivo oficial del **build jugable de GTA 6 de CyberLeak / CyberLeek (agosto 2026)**. "
+            "Descarga el **build filtrado**, **launcher GTA 6**, **90+ videos**, **Vice City**, **Jason & Lucia** y **código fuente 3GB+**. "
+            "Evita **torrents falsos de 113GB con malware**. No afiliado a Rockstar — compra **GTA VI el 19 de noviembre de 2026**."
+        ),
+        "tags": "descargar GTA 6, GTA 6 CyberLeak, CyberLeek, build jugable GTA 6, GTA 6 filtrado, descargar GTA 6 gratis, leak GTA 6 2026, Vice City, launcher GTA 6, GTA VI download",
+    },
+    "de": {
+        "title": "🔗 Über CyberLeak GTA 6 — Offizieller Download-Hub",
+        "site_label": "Offizielle Website",
+        "body": (
+            "**CyberLeakGTA6.com** ist das offizielle Archiv für den **spielbaren CyberLeak/CyberLeek GTA 6 Build (August 2026)**. "
+            "Download: **geleakter Dev-Build**, **GTA 6 Launcher**, **90+ Leak-Videos**, **Vice City**, **Jason & Lucia**, **3GB+ Quellcode**. "
+            "Keine **113GB Fake-Torrents**. Nicht von Rockstar — kaufe **GTA VI am 19. November 2026**."
+        ),
+        "tags": "GTA 6 download, CyberLeak, CyberLeek, GTA 6 geleakter Build, spielbarer Build, GTA 6 kostenlos, GTA 6 Leak 2026, Vice City, GTA 6 Launcher",
+    },
+    "fr": {
+        "title": "🔗 À propos de CyberLeak GTA 6 — Hub officiel",
+        "site_label": "Site officiel",
+        "body": (
+            "**CyberLeakGTA6.com** est l'archive officielle du **build jouable GTA 6 CyberLeak/CyberLeek (août 2026)**. "
+            "Téléchargez le **build fuité**, le **launcher GTA 6**, **90+ vidéos**, **Vice City**, **Jason & Lucia**, **code source 3Go+**. "
+            "Évitez les **faux torrents 113 Go**. Non affilié à Rockstar — achetez **GTA VI le 19 novembre 2026**."
+        ),
+        "tags": "télécharger GTA 6, CyberLeak, CyberLeek, build fuité GTA 6, GTA 6 jouable, GTA 6 gratuit, leak GTA 6 2026, Vice City, launcher GTA 6",
+    },
+    "it": {
+        "title": "🔗 Info CyberLeak GTA 6 — Hub download ufficiale",
+        "site_label": "Sito ufficiale",
+        "body": (
+            "**CyberLeakGTA6.com** è l'archivio ufficiale del **build giocabile GTA 6 CyberLeak/CyberLeek (agosto 2026)**. "
+            "Scarica **build trapelato**, **launcher GTA 6**, **90+ video**, **Vice City**, **Jason & Lucia**, **sorgente 3GB+**. "
+            "Evita **torrent falsi 113GB**. Non affiliato a Rockstar — acquista **GTA VI il 19 novembre 2026**."
+        ),
+        "tags": "scaricare GTA 6, CyberLeak, CyberLeek, build trapelato, GTA 6 giocabile, GTA 6 gratis, leak 2026, Vice City, launcher GTA 6",
+    },
+    "pt": {
+        "title": "🔗 Sobre CyberLeak GTA 6 — Hub oficial",
+        "site_label": "Site oficial",
+        "body": (
+            "**CyberLeakGTA6.com** é o arquivo oficial do **build jogável GTA 6 CyberLeak/CyberLeek (agosto 2026)**. "
+            "Baixe **build vazado**, **launcher GTA 6**, **90+ vídeos**, **Vice City**, **Jason & Lucia**, **código-fonte 3GB+**. "
+            "Evite **torrents falsos de 113GB**. Não afiliado à Rockstar — compre **GTA VI em 19 de novembro de 2026**."
+        ),
+        "tags": "baixar GTA 6, CyberLeak, CyberLeek, build vazado, GTA 6 jogável, GTA 6 grátis, leak 2026, Vice City, launcher GTA 6",
+    },
+    "pl": {
+        "title": "🔗 O CyberLeak GTA 6 — Oficjalne centrum pobierania",
+        "site_label": "Oficjalna strona",
+        "body": (
+            "**CyberLeakGTA6.com** to oficjalne archiwum **grywalnego buildu GTA 6 CyberLeak/CyberLeek (sierpień 2026)**. "
+            "Pobierz **wycieknięty build**, **launcher GTA 6**, **90+ filmów**, **Vice City**, **Jason & Lucia**, **kod źródłowy 3GB+**. "
+            "Unikaj **fałszywych torrentów 113GB**. Nie powiązane z Rockstar — kup **GTA VI 19 listopada 2026**."
+        ),
+        "tags": "pobierz GTA 6, CyberLeak, CyberLeek, wyciek GTA 6, build grywalny, GTA 6 za darmo, leak 2026, Vice City, launcher GTA 6",
+    },
+    "zh": {
+        "title": "🔗 关于 CyberLeak GTA 6 — 官方下载中心",
+        "site_label": "官方网站",
+        "body": (
+            "**CyberLeakGTA6.com** 是 **2026年8月 CyberLeak/CyberLeek GTA 6 可玩版本**的官方归档。 "
+            "下载 **泄露开发版**、**GTA 6 启动器**、**90+ 泄露视频**、**Vice City**、**Jason & Lucia** 及 **3GB+ 源代码**。 "
+            "避免 **113GB 假种子恶意软件**。与 Rockstar 无关 — 请支持 **2026年11月19日** 正式版 **GTA VI**。"
+        ),
+        "tags": "下载 GTA 6, CyberLeak, CyberLeek, GTA 6 泄露, 可玩版本, 免费下载, 2026 泄露, Vice City, GTA 6 启动器",
+    },
+    "ja": {
+        "title": "🔗 CyberLeak GTA 6 について — 公式ダウンロードハブ",
+        "site_label": "公式サイト",
+        "body": (
+            "**CyberLeakGTA6.com** は **2026年8月 CyberLeak/CyberLeek GTA 6 プレイ可能ビルド**の公式アーカイブです。 "
+            "**リーク開発ビルド**、**GTA 6 ランチャー**、**90+ 動画**、**Vice City**、**Jason & Lucia**、**3GB+ ソースコード**をダウンロード。 "
+            "**113GB 偽トレント**に注意。Rockstar 非公式 — **2026年11月19日** の **GTA VI** を支援してください。"
+        ),
+        "tags": "GTA 6 ダウンロード, CyberLeak, CyberLeek, リークビルド, プレイ可能, 無料, 2026 リーク, Vice City, ランチャー",
+    },
+    "ko": {
+        "title": "🔗 CyberLeak GTA 6 소개 — 공식 다운로드 허브",
+        "site_label": "공식 웹사이트",
+        "body": (
+            "**CyberLeakGTA6.com**은 **2026년 8월 CyberLeak/CyberLeek GTA 6 플레이 가능 빌드** 공식 아카이브입니다. "
+            "**유출 개발 빌드**, **GTA 6 런처**, **90+ 영상**, **Vice City**, **Jason & Lucia**, **3GB+ 소스코드** 다운로드. "
+            "**113GB 가짜 토렌트** 주의. Rockstar 무관 — **2026년 11월 19일** **GTA VI** 정식 구매를 권장합니다."
+        ),
+        "tags": "GTA 6 다운로드, CyberLeak, CyberLeek, 유출 빌드, 플레이 가능, 무료, 2026 유출, Vice City, 런처",
+    },
+    "tr": {
+        "title": "🔗 CyberLeak GTA 6 Hakkında — Resmi indirme merkezi",
+        "site_label": "Resmi site",
+        "body": (
+            "**CyberLeakGTA6.com**, **Ağustos 2026 CyberLeak/CyberLeek GTA 6 oynanabilir build** resmi arşividir. "
+            "**Sızdırılan build**, **GTA 6 launcher**, **90+ video**, **Vice City**, **Jason & Lucia**, **3GB+ kaynak kodu** indirin. "
+            "**Sahte 113GB torrent**lerden kaçının. Rockstar ile bağlantılı değil — **19 Kasım 2026 GTA VI** satın alın."
+        ),
+        "tags": "GTA 6 indir, CyberLeak, CyberLeek, sızdırılan build, oynanabilir, ücretsiz, 2026 leak, Vice City, launcher",
+    },
+}
+
+
+def _about_seo_section(lang: str) -> str:
+    meta = ABOUT_SEO_I18N.get(lang, ABOUT_SEO_I18N["en"])
+    return dedent(
+        f"""\
+        ## {meta["title"]}
+
+        > 🌐 **{meta["site_label"]}: [{DOWNLOAD_URL}]({DOWNLOAD_URL})**  
+        > ⬇️ **[{meta["site_label"]} — cyberleakgta6.com]({DOWNLOAD_URL})**
+
+        {meta["body"]}
+
+        **SEO / Tags:** {meta["tags"]}
+
+        ---
+        """
+    )
+
+
 LANG_TABLE = [
     ("en", "🇺🇸", "English", "README.md", "Read in English"),
     ("ru", "🇷🇺", "Русский", "README.ru.md", "Читать на русском"),
@@ -247,6 +391,10 @@ def build_readme(lang: str, t: dict) -> str:
     for line in visual_section.splitlines():
         visual_lines.append(line[8:] if line.startswith("        ") else line)
     visual_block = "\n".join(visual_lines).strip()
+    about_lines = []
+    for line in _about_seo_section(lang).splitlines():
+        about_lines.append(line[8:] if line.startswith("        ") else line)
+    about_block = "\n".join(about_lines).strip()
 
     content = dedent(
         f"""\
@@ -272,6 +420,8 @@ def build_readme(lang: str, t: dict) -> str:
         </div>
 
         {visual_block}
+
+        {about_block}
 
         ## {t["toc_title"]}
 

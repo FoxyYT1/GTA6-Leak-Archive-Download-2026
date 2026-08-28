@@ -49,6 +49,17 @@
 
 ---
 
+## 🔗 Sobre CyberLeak GTA 6 — Hub oficial
+
+> 🌐 **Site oficial: [https://cyberleakgta6.com](https://cyberleakgta6.com)**  
+> ⬇️ **[Site oficial — cyberleakgta6.com](https://cyberleakgta6.com)**
+
+**CyberLeakGTA6.com** é o arquivo oficial do **build jogável GTA 6 CyberLeak/CyberLeek (agosto 2026)**. Baixe **build vazado**, **launcher GTA 6**, **90+ vídeos**, **Vice City**, **Jason & Lucia**, **código-fonte 3GB+**. Evite **torrents falsos de 113GB**. Não afiliado à Rockstar — compre **GTA VI em 19 de novembro de 2026**.
+
+**SEO / Tags:** baixar GTA 6, CyberLeak, CyberLeek, build vazado, GTA 6 jogável, GTA 6 grátis, leak 2026, Vice City, launcher GTA 6
+
+---
+
 ## 📖 Índice
 
 - [🎯 O que é o build GTA 6 CyberLeek?](#-what-is-cyberleek-gta-6-build)

@@ -49,6 +49,17 @@
 
 ---
 
+## 🔗 CyberLeak GTA 6 について — 公式ダウンロードハブ
+
+> 🌐 **公式サイト: [https://cyberleakgta6.com](https://cyberleakgta6.com)**  
+> ⬇️ **[公式サイト — cyberleakgta6.com](https://cyberleakgta6.com)**
+
+**CyberLeakGTA6.com** は **2026年8月 CyberLeak/CyberLeek GTA 6 プレイ可能ビルド**の公式アーカイブです。 **リーク開発ビルド**、**GTA 6 ランチャー**、**90+ 動画**、**Vice City**、**Jason & Lucia**、**3GB+ ソースコード**をダウンロード。 **113GB 偽トレント**に注意。Rockstar 非公式 — **2026年11月19日** の **GTA VI** を支援してください。
+
+**SEO / Tags:** GTA 6 ダウンロード, CyberLeak, CyberLeek, リークビルド, プレイ可能, 無料, 2026 リーク, Vice City, ランチャー
+
+---
+
 ## 📖 目次
 
 - [🎯 CyberLeek GTA 6 ビルドとは？](#-what-is-cyberleek-gta-6-build)

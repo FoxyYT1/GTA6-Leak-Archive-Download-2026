@@ -49,6 +49,17 @@
 
 ---
 
+## 🔗 关于 CyberLeak GTA 6 — 官方下载中心
+
+> 🌐 **官方网站: [https://cyberleakgta6.com](https://cyberleakgta6.com)**  
+> ⬇️ **[官方网站 — cyberleakgta6.com](https://cyberleakgta6.com)**
+
+**CyberLeakGTA6.com** 是 **2026年8月 CyberLeak/CyberLeek GTA 6 可玩版本**的官方归档。 下载 **泄露开发版**、**GTA 6 启动器**、**90+ 泄露视频**、**Vice City**、**Jason & Lucia** 及 **3GB+ 源代码**。 避免 **113GB 假种子恶意软件**。与 Rockstar 无关 — 请支持 **2026年11月19日** 正式版 **GTA VI**。
+
+**SEO / Tags:** 下载 GTA 6, CyberLeak, CyberLeek, GTA 6 泄露, 可玩版本, 免费下载, 2026 泄露, Vice City, GTA 6 启动器
+
+---
+
 ## 📖 目录
 
 - [🎯 什么是 CyberLeek GTA 6 版本？](#-what-is-cyberleek-gta-6-build)

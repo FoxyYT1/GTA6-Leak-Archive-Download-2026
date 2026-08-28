@@ -49,6 +49,17 @@
 
 ---
 
+## 🔗 CyberLeak GTA 6 Hakkında — Resmi indirme merkezi
+
+> 🌐 **Resmi site: [https://cyberleakgta6.com](https://cyberleakgta6.com)**  
+> ⬇️ **[Resmi site — cyberleakgta6.com](https://cyberleakgta6.com)**
+
+**CyberLeakGTA6.com**, **Ağustos 2026 CyberLeak/CyberLeek GTA 6 oynanabilir build** resmi arşividir. **Sızdırılan build**, **GTA 6 launcher**, **90+ video**, **Vice City**, **Jason & Lucia**, **3GB+ kaynak kodu** indirin. **Sahte 113GB torrent**lerden kaçının. Rockstar ile bağlantılı değil — **19 Kasım 2026 GTA VI** satın alın.
+
+**SEO / Tags:** GTA 6 indir, CyberLeak, CyberLeek, sızdırılan build, oynanabilir, ücretsiz, 2026 leak, Vice City, launcher
+
+---
+
 ## 📖 İçindekiler
 
 - [🎯 CyberLeek GTA 6 build nedir?](#-what-is-cyberleek-gta-6-build)
