@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="168" viewBox="0 0 880 168" role="img" aria-label="Download GTA 6 Leak Archive">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#06140d"/>
+      <stop offset="45%" stop-color="#0b0b12"/>
+      <stop offset="100%" stop-color="#1a0620"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00ff88"/>
+      <stop offset="50%" stop-color="#00d4ff"/>
+      <stop offset="100%" stop-color="#ff0080"/>
+    </linearGradient>
+    <linearGradient id="fill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#12ff9a"/>
+      <stop offset="50%" stop-color="#00c46a"/>
+      <stop offset="100%" stop-color="#007a42"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-40%" width="140%" height="180%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect x="3" y="3" width="874" height="162" rx="28" fill="url(#bg)" stroke="url(#neon)" stroke-width="4"/>
+  <rect x="18" y="18" width="844" height="132" rx="20" fill="none" stroke="#00ff88" stroke-opacity="0.25" stroke-width="1.5"/>
+  <g filter="url(#glow)">
+    <rect x="210" y="38" width="460" height="92" rx="18" fill="url(#fill)"/>
+    <text x="440" y="78" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-size="28" fill="#04150c" letter-spacing="3">DOWNLOAD NOW</text>
+    <text x="440" y="108" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#04150c" letter-spacing="2">GTA 6 LEAK ARCHIVE • FREE</text>
+  </g>
+  <text x="70" y="92" font-size="42">⬇️</text>
+  <text x="810" y="92" font-size="42">🚀</text>
+  <text x="440" y="148" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#9affd0" letter-spacing="3">CYBERLEAKGTA6.COM</text>
+</svg>

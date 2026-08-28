@@ -69,12 +69,12 @@
     <text x="145" y="50" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#ffaa00" text-anchor="middle">VEHICLE STATS</text>
     
     <g fill="#ffffff" font-family="Arial, sans-serif" font-size="14">
-      <text x="40" y="80"><� Name: Infernus 2.0</text>
-      <text x="40" y="105">=� Top Speed: 245 mph</text>
-      <text x="40" y="130">� 0-60 mph: 2.3s</text>
-      <text x="40" y="155"><� Handling: 95/100</text>
-      <text x="40" y="180">=� Durability: 80/100</text>
-      <text x="40" y="205">P Rarity: Legendary</text>
+      <text x="40" y="80">🏎️ Name: Infernus 2.0</text>
+      <text x="40" y="105">💨 Top Speed: 245 mph</text>
+      <text x="40" y="130">⚡ 0-60 mph: 2.3s</text>
+      <text x="40" y="155">🎯 Handling: 95/100</text>
+      <text x="40" y="180">💪 Durability: 80/100</text>
+      <text x="40" y="205">⭐ Rarity: Legendary</text>
     </g>
   </g>
   
@@ -85,9 +85,9 @@
     <text x="655" y="50" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#00ff88" text-anchor="middle">IMPROVED PHYSICS</text>
     
     <g fill="#ffffff" font-family="Arial, sans-serif" font-size="13">
-      <text x="550" y="80"> Realistic damage model</text>
-      <text x="550" y="105"> Dynamic suspension</text>
-      <text x="550" y="130"> Advanced tire grip</text>
+      <text x="550" y="80">✅ Realistic damage model</text>
+      <text x="550" y="105">✅ Dynamic suspension</text>
+      <text x="550" y="130">✅ Advanced tire grip</text>
     </g>
   </g>
   

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="220" viewBox="0 0 980 220" role="img" aria-label="Download GTA 6">
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#05080a"/>
+      <stop offset="100%" stop-color="#120814"/>
+    </linearGradient>
+    <linearGradient id="btn" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ff0080"/>
+      <stop offset="50%" stop-color="#00ff88"/>
+      <stop offset="100%" stop-color="#00d4ff"/>
+    </linearGradient>
+    <linearGradient id="inner" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2bffb0"/>
+      <stop offset="100%" stop-color="#00995a"/>
+    </linearGradient>
+    <filter id="g" x="-15%" y="-40%" width="130%" height="180%">
+      <feGaussianBlur stdDeviation="8" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="980" height="220" rx="32" fill="url(#panel)" stroke="url(#btn)" stroke-width="5"/>
+  <text x="490" y="48" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-size="22" fill="#00ff88" letter-spacing="6">VICE CITY • LEONIDA • AUGUST 2026</text>
+  <g filter="url(#g)">
+    <rect x="90" y="68" width="800" height="96" rx="22" fill="url(#inner)" stroke="#ffffff" stroke-opacity="0.25" stroke-width="2"/>
+    <text x="490" y="112" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-size="36" fill="#03140c" letter-spacing="4">⬇️  DOWNLOAD GTA 6 ARCHIVE  ⬇️</text>
+    <text x="490" y="144" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="800" fill="#062016">90+ VIDEOS  •  3811 FILES  •  LAUNCHER  •  NO SIGN-UP</text>
+  </g>
+  <text x="490" y="198" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#ff8ac8" letter-spacing="2">cyberleakgta6.com  —  instant access</text>
+</svg>

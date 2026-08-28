@@ -74,16 +74,16 @@
   <rect x="50" y="100" width="200" height="80" fill="#000000" opacity="0.9" rx="5" stroke="#00d4ff" stroke-width="2"/>
   <g fill="#ffffff" font-family="Arial, sans-serif" font-size="14">
     <text x="150" y="125" text-anchor="middle" fill="#00d4ff" font-weight="bold">MISSION STATUS</text>
-    <text x="70" y="145"><� Objective: Crack Vault</text>
-    <text x="70" y="165">� Time: 05:47</text>
+    <text x="70" y="145">🎯 Objective: Crack Vault</text>
+    <text x="70" y="165">⏱️ Time: 05:47</text>
   </g>
   
   <!-- Player icons -->
   <rect x="550" y="100" width="200" height="80" fill="#000000" opacity="0.9" rx="5" stroke="#ff0080" stroke-width="2"/>
   <g fill="#ffffff" font-family="Arial, sans-serif" font-size="14">
     <text x="650" y="125" text-anchor="middle" fill="#ff0080" font-weight="bold">TEAM</text>
-    <text x="570" y="145">=i Lucia: Hacker</text>
-    <text x="570" y="165">=h Jason: Security</text>
+    <text x="570" y="145">👩 Lucia: Hacker</text>
+    <text x="570" y="165">👨 Jason: Security</text>
   </g>
   
   <!-- GTA 6 Logo -->
