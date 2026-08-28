@@ -279,6 +279,7 @@ Select your preferred GTA 6 build version:
 - "CyberLeek leak archive"
 
 **Why?** Because CyberLeak's footage is:
+
 1. ✅ **More recent** - Closer to the final game (2026 vs 2022)
 2. ✅ **Higher quality** - Better video and audio quality
 3. ✅ **More complete** - Shows more features and gameplay
@@ -360,7 +361,7 @@ Both leaks are authentic, but CyberLeak's content is more up-to-date and higher 
 
 ### Q: How big is the download? How much space do I need?
 
-**A:** 
+**A:**
 - GTA 6 Launcher: ~5GB
 - Each game build: 15-25GB
 - Total for all builds + launcher + videos: ~80-100GB
