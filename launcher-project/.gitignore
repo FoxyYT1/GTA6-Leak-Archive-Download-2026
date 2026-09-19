@@ -10,7 +10,8 @@ ENV/
 
 # PyInstaller
 build/
-dist/
+# Keep dist folder for releases
+# dist/
 *.spec
 
 # IDE
