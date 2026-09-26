@@ -10,7 +10,7 @@ from pathlib import Path
 from textwrap import dedent
 
 OUTPUT_DIR = Path(r"C:\Users\user\gta6_repo")
-DOWNLOAD_URL = "https://cyberleakgta6.com"
+DOWNLOAD_URL = "https://cyberleakgta6.net"
 UPDATE_DATE = "August 28, 2026"
 
 LANG_FILES = {
@@ -183,7 +183,7 @@ ABOUT_SEO_I18N = {
         "title": "🔗 About CyberLeak GTA 6 — Official Download Hub",
         "site_label": "Official Website",
         "body": (
-            "**CyberLeakGTA6.com** is the official archive for the **August 2026 CyberLeak / CyberLeek GTA 6 playable build**. "
+            "**CyberLeakGTA6.net** is the official archive for the **August 2026 CyberLeak / CyberLeek GTA 6 playable build**. "
             "Download the **leaked development build**, **GTA 6 Launcher**, **90+ leak videos**, **Vice City map**, **Jason & Lucia gameplay**, and **3GB+ source code**. "
             "This repo documents how to **download GTA 6 free**, install the **playable PC build**, and avoid **fake 113GB malware torrents**. "
             "Not affiliated with Rockstar Games — support the official **GTA VI release on November 19, 2026**."
@@ -194,7 +194,7 @@ ABOUT_SEO_I18N = {
         "title": "🔗 О CyberLeak GTA 6 — официальный хаб загрузки",
         "site_label": "Официальный сайт",
         "body": (
-            "**CyberLeakGTA6.com** — официальный архив **играбельного билда GTA 6 от CyberLeak / CyberLeek (август 2026)**. "
+            "**CyberLeakGTA6.net** — официальный архив **играбельного билда GTA 6 от CyberLeak / CyberLeek (август 2026)**. "
             "Скачай **слитый билд разработки**, **лаунчер GTA 6**, **90+ видео слива**, **карту Vice City**, **геймплей Jason & Lucia** и **3ГБ+ исходного кода**. "
             "Этот репозиторий объясняет, как **скачать GTA 6 бесплатно**, установить **играбельную PC-сборку** и не попасть на **фейковый торрент 113 ГБ с вирусами**. "
             "Не связано с Rockstar Games — поддержи официальный релиз **GTA VI 19 ноября 2026**."
@@ -205,7 +205,7 @@ ABOUT_SEO_I18N = {
         "title": "🔗 Sobre CyberLeak GTA 6 — Hub oficial de descarga",
         "site_label": "Sitio oficial",
         "body": (
-            "**CyberLeakGTA6.com** es el archivo oficial del **build jugable de GTA 6 de CyberLeak / CyberLeek (agosto 2026)**. "
+            "**CyberLeakGTA6.net** es el archivo oficial del **build jugable de GTA 6 de CyberLeak / CyberLeek (agosto 2026)**. "
             "Descarga el **build filtrado**, **launcher GTA 6**, **90+ videos**, **Vice City**, **Jason & Lucia** y **código fuente 3GB+**. "
             "Evita **torrents falsos de 113GB con malware**. No afiliado a Rockstar — compra **GTA VI el 19 de noviembre de 2026**."
         ),
@@ -215,7 +215,7 @@ ABOUT_SEO_I18N = {
         "title": "🔗 Über CyberLeak GTA 6 — Offizieller Download-Hub",
         "site_label": "Offizielle Website",
         "body": (
-            "**CyberLeakGTA6.com** ist das offizielle Archiv für den **spielbaren CyberLeak/CyberLeek GTA 6 Build (August 2026)**. "
+            "**CyberLeakGTA6.net** ist das offizielle Archiv für den **spielbaren CyberLeak/CyberLeek GTA 6 Build (August 2026)**. "
             "Download: **geleakter Dev-Build**, **GTA 6 Launcher**, **90+ Leak-Videos**, **Vice City**, **Jason & Lucia**, **3GB+ Quellcode**. "
             "Keine **113GB Fake-Torrents**. Nicht von Rockstar — kaufe **GTA VI am 19. November 2026**."
         ),
@@ -225,7 +225,7 @@ ABOUT_SEO_I18N = {
         "title": "🔗 À propos de CyberLeak GTA 6 — Hub officiel",
         "site_label": "Site officiel",
         "body": (
-            "**CyberLeakGTA6.com** est l'archive officielle du **build jouable GTA 6 CyberLeak/CyberLeek (août 2026)**. "
+            "**CyberLeakGTA6.net** est l'archive officielle du **build jouable GTA 6 CyberLeak/CyberLeek (août 2026)**. "
             "Téléchargez le **build fuité**, le **launcher GTA 6**, **90+ vidéos**, **Vice City**, **Jason & Lucia**, **code source 3Go+**. "
             "Évitez les **faux torrents 113 Go**. Non affilié à Rockstar — achetez **GTA VI le 19 novembre 2026**."
         ),
@@ -235,7 +235,7 @@ ABOUT_SEO_I18N = {
         "title": "🔗 Info CyberLeak GTA 6 — Hub download ufficiale",
         "site_label": "Sito ufficiale",
         "body": (
-            "**CyberLeakGTA6.com** è l'archivio ufficiale del **build giocabile GTA 6 CyberLeak/CyberLeek (agosto 2026)**. "
+            "**CyberLeakGTA6.net** è l'archivio ufficiale del **build giocabile GTA 6 CyberLeak/CyberLeek (agosto 2026)**. "
             "Scarica **build trapelato**, **launcher GTA 6**, **90+ video**, **Vice City**, **Jason & Lucia**, **sorgente 3GB+**. "
             "Evita **torrent falsi 113GB**. Non affiliato a Rockstar — acquista **GTA VI il 19 novembre 2026**."
         ),
@@ -245,7 +245,7 @@ ABOUT_SEO_I18N = {
         "title": "🔗 Sobre CyberLeak GTA 6 — Hub oficial",
         "site_label": "Site oficial",
         "body": (
-            "**CyberLeakGTA6.com** é o arquivo oficial do **build jogável GTA 6 CyberLeak/CyberLeek (agosto 2026)**. "
+            "**CyberLeakGTA6.net** é o arquivo oficial do **build jogável GTA 6 CyberLeak/CyberLeek (agosto 2026)**. "
             "Baixe **build vazado**, **launcher GTA 6**, **90+ vídeos**, **Vice City**, **Jason & Lucia**, **código-fonte 3GB+**. "
             "Evite **torrents falsos de 113GB**. Não afiliado à Rockstar — compre **GTA VI em 19 de novembro de 2026**."
         ),
@@ -255,7 +255,7 @@ ABOUT_SEO_I18N = {
         "title": "🔗 O CyberLeak GTA 6 — Oficjalne centrum pobierania",
         "site_label": "Oficjalna strona",
         "body": (
-            "**CyberLeakGTA6.com** to oficjalne archiwum **grywalnego buildu GTA 6 CyberLeak/CyberLeek (sierpień 2026)**. "
+            "**CyberLeakGTA6.net** to oficjalne archiwum **grywalnego buildu GTA 6 CyberLeak/CyberLeek (sierpień 2026)**. "
             "Pobierz **wycieknięty build**, **launcher GTA 6**, **90+ filmów**, **Vice City**, **Jason & Lucia**, **kod źródłowy 3GB+**. "
             "Unikaj **fałszywych torrentów 113GB**. Nie powiązane z Rockstar — kup **GTA VI 19 listopada 2026**."
         ),
@@ -265,7 +265,7 @@ ABOUT_SEO_I18N = {
         "title": "🔗 关于 CyberLeak GTA 6 — 官方下载中心",
         "site_label": "官方网站",
         "body": (
-            "**CyberLeakGTA6.com** 是 **2026年8月 CyberLeak/CyberLeek GTA 6 可玩版本**的官方归档。 "
+            "**CyberLeakGTA6.net** 是 **2026年8月 CyberLeak/CyberLeek GTA 6 可玩版本**的官方归档。 "
             "下载 **泄露开发版**、**GTA 6 启动器**、**90+ 泄露视频**、**Vice City**、**Jason & Lucia** 及 **3GB+ 源代码**。 "
             "避免 **113GB 假种子恶意软件**。与 Rockstar 无关 — 请支持 **2026年11月19日** 正式版 **GTA VI**。"
         ),
@@ -275,7 +275,7 @@ ABOUT_SEO_I18N = {
         "title": "🔗 CyberLeak GTA 6 について — 公式ダウンロードハブ",
         "site_label": "公式サイト",
         "body": (
-            "**CyberLeakGTA6.com** は **2026年8月 CyberLeak/CyberLeek GTA 6 プレイ可能ビルド**の公式アーカイブです。 "
+            "**CyberLeakGTA6.net** は **2026年8月 CyberLeak/CyberLeek GTA 6 プレイ可能ビルド**の公式アーカイブです。 "
             "**リーク開発ビルド**、**GTA 6 ランチャー**、**90+ 動画**、**Vice City**、**Jason & Lucia**、**3GB+ ソースコード**をダウンロード。 "
             "**113GB 偽トレント**に注意。Rockstar 非公式 — **2026年11月19日** の **GTA VI** を支援してください。"
         ),
@@ -285,7 +285,7 @@ ABOUT_SEO_I18N = {
         "title": "🔗 CyberLeak GTA 6 소개 — 공식 다운로드 허브",
         "site_label": "공식 웹사이트",
         "body": (
-            "**CyberLeakGTA6.com**은 **2026년 8월 CyberLeak/CyberLeek GTA 6 플레이 가능 빌드** 공식 아카이브입니다. "
+            "**CyberLeakGTA6.net**은 **2026년 8월 CyberLeak/CyberLeek GTA 6 플레이 가능 빌드** 공식 아카이브입니다. "
             "**유출 개발 빌드**, **GTA 6 런처**, **90+ 영상**, **Vice City**, **Jason & Lucia**, **3GB+ 소스코드** 다운로드. "
             "**113GB 가짜 토렌트** 주의. Rockstar 무관 — **2026년 11월 19일** **GTA VI** 정식 구매를 권장합니다."
         ),
@@ -295,7 +295,7 @@ ABOUT_SEO_I18N = {
         "title": "🔗 CyberLeak GTA 6 Hakkında — Resmi indirme merkezi",
         "site_label": "Resmi site",
         "body": (
-            "**CyberLeakGTA6.com**, **Ağustos 2026 CyberLeak/CyberLeek GTA 6 oynanabilir build** resmi arşividir. "
+            "**CyberLeakGTA6.net**, **Ağustos 2026 CyberLeak/CyberLeek GTA 6 oynanabilir build** resmi arşividir. "
             "**Sızdırılan build**, **GTA 6 launcher**, **90+ video**, **Vice City**, **Jason & Lucia**, **3GB+ kaynak kodu** indirin. "
             "**Sahte 113GB torrent**lerden kaçının. Rockstar ile bağlantılı değil — **19 Kasım 2026 GTA VI** satın alın."
         ),
@@ -311,7 +311,7 @@ def _about_seo_section(lang: str) -> str:
         ## {meta["title"]}
 
         > 🌐 **{meta["site_label"]}: [{DOWNLOAD_URL}]({DOWNLOAD_URL})**  
-        > ⬇️ **[{meta["site_label"]} — cyberleakgta6.com]({DOWNLOAD_URL})**
+        > ⬇️ **[{meta["site_label"]} — cyberleakgta6.net]({DOWNLOAD_URL})**
 
         {meta["body"]}
 
@@ -696,7 +696,7 @@ def _en() -> dict:
             - Virus-free and malware-free
             - No hidden miners or spyware
             - Transparent file structure
-            - Official CyberLeakGTA6.com source"""),
+            - Official CyberLeakGTA6.net source"""),
         "sec_included_title": "🎮 What's Included",
         "sec_included_builds_h": "🕹️ Playable Game Builds",
         "tbl_build_header": ("Build Version", "Release Date", "Status", "Features"),
@@ -776,7 +776,7 @@ def _en() -> dict:
             "Step 8: Launch & Play!",
         ],
         "install_bodies": [
-            f'Click the big download button at the top of this page to visit **[CyberLeakGTA6.com]({DOWNLOAD_URL})** - the official and safe source for the CyberLeak GTA 6 build.',
+            f'Click the big download button at the top of this page to visit **[CyberLeakGTA6.net]({DOWNLOAD_URL})** - the official and safe source for the CyberLeak GTA 6 build.',
             dedent("""\
                 Select your preferred GTA 6 build version:
                 - **Q2 2022 (Recommended)** - Most stable and feature-complete
@@ -874,7 +874,7 @@ def _en() -> dict:
             "✅ **Proven access** - Demonstrated actual playable build access",
             "✅ **Comprehensive** - Includes Vice City, both protagonists, missions, etc.",
         ],
-        "sec_about_official": "CyberLeakGTA6.com is the official archive for all CyberLeak content.",
+        "sec_about_official": "CyberLeakGTA6.net is the official archive for all CyberLeak content.",
         "sec_safety_title": "🛡️ Safety & Security",
         "sec_safety_warn_h": "⚠️ IMPORTANT WARNING",
         "sec_safety_warn_p": '**BEWARE OF FAKE DOWNLOADS!** Many scam websites and torrent sites are distributing **fake "GTA 6 builds"** that contain:',
@@ -887,7 +887,7 @@ def _en() -> dict:
         "sec_safety_fake_p": "The most common fake is a **113GB torrent file** that is actually mostly empty space with malware hidden inside.",
         "sec_safety_how_h": "✅ How to Stay Safe:",
         "sec_safety_how_list": dedent("""\
-            1. **ONLY download from CyberLeakGTA6.com** - the official source
+            1. **ONLY download from CyberLeakGTA6.net** - the official source
             2. **NEVER download from random torrent sites**
             3. **Check file sizes** - Our builds are 15-25GB each, NOT 113GB
             4. **Use antivirus software** - Windows Defender is fine
@@ -902,12 +902,12 @@ def _en() -> dict:
             - ✅ **No spyware** - We don't track you or steal data
             - ✅ **Direct download** - From official servers only"""),
         "sec_safety_report_h": "📧 Report Fake Websites",
-        "sec_safety_report_p": 'If you find websites claiming to be "CyberLeak" or offering "GTA 6 downloads" that look suspicious, please report them. The ONLY official website is **CyberLeakGTA6.com**.',
+        "sec_safety_report_p": 'If you find websites claiming to be "CyberLeak" or offering "GTA 6 downloads" that look suspicious, please report them. The ONLY official website is **CyberLeakGTA6.net**.',
         "sec_faq_title": "❓ FAQ (Frequently Asked Questions)",
         "faq": [
             (
                 "Q: Is this the real GTA 6 playable build from CyberLeak?",
-                "**A:** YES! This is the authentic CyberLeak leaked build archive with playable game files, custom launcher, and all leaked footage. CyberLeakGTA6.com is the official source for the complete leak collection.",
+                "**A:** YES! This is the authentic CyberLeak leaked build archive with playable game files, custom launcher, and all leaked footage. CyberLeakGTA6.net is the official source for the complete leak collection.",
             ),
             (
                 "Q: Can I actually play GTA 6 before the official November 19, 2026 release?",
@@ -943,7 +943,7 @@ def _en() -> dict:
             ),
             (
                 "Q: Will this be updated when new leaks come out?",
-                "**A:** YES! We continuously monitor for new CyberLeak content and update the archive whenever new leaks appear. Bookmark **CyberLeakGTA6.com** and check back regularly for updates.",
+                "**A:** YES! We continuously monitor for new CyberLeak content and update the archive whenever new leaks appear. Bookmark **CyberLeakGTA6.net** and check back regularly for updates.",
             ),
             (
                 "Q: Can I mod the leaked build?",
@@ -1063,7 +1063,7 @@ def _ru() -> dict:
             - Без вирусов и вредоносов
             - Без скрытых майнеров и шпионов
             - Прозрачная структура файлов
-            - Официальный источник CyberLeakGTA6.com
+            - Официальный источник CyberLeakGTA6.net
         """),
         "sec_included_title": "🎮 Что входит в архив",
         "sec_included_builds_h": "🕹️ Играбельные билды игры",
@@ -1150,7 +1150,7 @@ def _ru() -> dict:
             "Шаг 8: Запусти и играй!",
         ],
         "install_bodies": [
-            f'Нажми большую кнопку загрузки вверху страницы, чтобы перейти на **[CyberLeakGTA6.com](https://cyberleakgta6.com)** — официальный безопасный источник билда GTA 6 от CyberLeak.',
+            f'Нажми большую кнопку загрузки вверху страницы, чтобы перейти на **[CyberLeakGTA6.net](https://cyberleakgta6.net)** — официальный безопасный источник билда GTA 6 от CyberLeak.',
             dedent("""\
                 Выбери версию билда GTA 6:
                 - **Q2 2022 (Рекомендуется)** - Самый стабильный и полный функций
@@ -1257,7 +1257,7 @@ def _ru() -> dict:
             "✅ **Доказанный доступ** — реальный играбельный билд",
             "✅ **Всеобъемлюще** — Vice City, протагонисты, миссии и т.д.",
         ],
-        "sec_about_official": "CyberLeakGTA6.com — официальный архив всего контента CyberLeak.",
+        "sec_about_official": "CyberLeakGTA6.net — официальный архив всего контента CyberLeak.",
         "sec_safety_title": "🛡️ Безопасность",
         "sec_safety_warn_h": "⚠️ ВАЖНОЕ ПРЕДУПРЕЖДЕНИЕ",
         "sec_safety_warn_p": "**ОСТЕРЕГАЙТЕСЬ ПОДДЕЛОК!** Мошеннические сайты распространяют **фейковые «билды GTA 6»** с:",
@@ -1271,7 +1271,7 @@ def _ru() -> dict:
         "sec_safety_fake_p": "Частая подделка — **торрент 113 ГБ** с пустым местом и вредоносом внутри.",
         "sec_safety_how_h": "✅ Как оставаться в безопасности:",
         "sec_safety_how_list": dedent("""\
-            1. **ТОЛЬКО CyberLeakGTA6.com** — официальный источник
+            1. **ТОЛЬКО CyberLeakGTA6.net** — официальный источник
             2. **НИКОГДА** со случайных торрентов
             3. **Проверяй размер** — наши билды 15-25 ГБ, НЕ 113 ГБ
             4. **Антивирус** — Windows Defender подойдёт
@@ -1288,11 +1288,11 @@ def _ru() -> dict:
             - ✅ Прямая загрузка с официальных серверов
         """),
         "sec_safety_report_h": "📧 Сообщить о фейковых сайтах",
-        "sec_safety_report_p": "Если видишь подозрительные «CyberLeak» или «GTA 6 download» — сообщи. Единственный официальный сайт: **CyberLeakGTA6.com**.",
+        "sec_safety_report_p": "Если видишь подозрительные «CyberLeak» или «GTA 6 download» — сообщи. Единственный официальный сайт: **CyberLeakGTA6.net**.",
         "sec_faq_title": "❓ FAQ (Часто задаваемые вопросы)",
         "faq": [
             ("В: Это настоящий играбельный билд GTA 6 от CyberLeak?",
-             "**О:** ДА! Это подлинный архив слитого билда от CyberLeak с играбельными файлами игры, кастомным лаунчером и всеми слитыми кадрами. CyberLeakGTA6.com - официальный источник полной коллекции слива."),
+             "**О:** ДА! Это подлинный архив слитого билда от CyberLeak с играбельными файлами игры, кастомным лаунчером и всеми слитыми кадрами. CyberLeakGTA6.net - официальный источник полной коллекции слива."),
             ("В: Можно ли реально поиграть в GTA 6 до официального релиза 19 ноября 2026?",
              "**О:** ДА! Скачай наш лаунчер GTA 6 и файлы слитого билда, чтобы играть в версию разработки GTA 6 прямо сейчас. Включает Vice City, сюжетные миссии, побочные активности, транспорт и обоих протагонистов Jason Duval и Lucia Caminos."),
             ("В: Законно ли скачивать слитый билд GTA 6?",
@@ -1310,7 +1310,7 @@ def _ru() -> dict:
             ("В: Это полная GTA 6 или только демо?",
              "**О:** Это билды разработки 2021-2022, не финальная игра ноября 2026. Однако они включают большую часть карты Vice City, сюжетные миссии, Jason & Lucia, 150+ транспортных средств, боевую систему и многое другое."),
             ("В: Будет ли архив обновляться при новых сливах?",
-             "**О:** ДА! Мы следим за новым контентом CyberLeak и обновляем архив. Добавь в закладки **CyberLeakGTA6.com** и проверяй регулярно."),
+             "**О:** ДА! Мы следим за новым контентом CyberLeak и обновляем архив. Добавь в закладки **CyberLeakGTA6.net** и проверяй регулярно."),
             ("В: Можно ли модифицировать слитый билд?",
              "**О:** ДА! Мы предоставляем исходный код (3 ГБ+), опытные моддеры могут создавать моды и скрипты. Природа билдов разработки делает их относительно удобными для моддинга."),
             ("В: Есть ли мультиплеер / GTA Online?",
@@ -1415,7 +1415,7 @@ def _es() -> dict:
             - Sin virus ni malware
             - Sin mineros ocultos
             - Estructura transparente
-            - Fuente oficial CyberLeakGTA6.com
+            - Fuente oficial CyberLeakGTA6.net
         """),
         "sec_included_title": "🎮 Qué incluye",
         "sec_included_builds_h": "🕹️ Builds jugables",
@@ -1502,7 +1502,7 @@ def _es() -> dict:
             "Paso 8: ¡Lanza y juega!",
         ],
         "install_bodies": [
-            f'Haz clic en el botón de descarga para visitar **[CyberLeakGTA6.com](https://cyberleakgta6.com)** — fuente oficial y segura.',
+            f'Haz clic en el botón de descarga para visitar **[CyberLeakGTA6.net](https://cyberleakgta6.net)** — fuente oficial y segura.',
             dedent("""\
                 Elige tu versión de build GTA 6:
                 - **Q2 2022 (Recomendado)** - Más estable y completo
@@ -1609,7 +1609,7 @@ def _es() -> dict:
             "✅ **Acceso probado** - Build jugable real demostrado",
             "✅ **Integral** - Vice City, protagonistas, misiones, etc.",
         ],
-        "sec_about_official": "CyberLeakGTA6.com es el archivo oficial de todo el contenido CyberLeak.",
+        "sec_about_official": "CyberLeakGTA6.net es el archivo oficial de todo el contenido CyberLeak.",
         "sec_safety_title": "🛡️ Seguridad",
         "sec_safety_warn_h": "⚠️ ADVERTENCIA IMPORTANTE",
         "sec_safety_warn_p": "**¡CUIDADO CON DESCARGAS FALSAS!** Sitios scam distribuyen **«builds GTA 6» falsos** con:",
@@ -1623,7 +1623,7 @@ def _es() -> dict:
         "sec_safety_fake_p": "La falsificación más común: **torrent de 113GB** con espacio vacío y malware oculto.",
         "sec_safety_how_h": "✅ Cómo mantenerse seguro:",
         "sec_safety_how_list": dedent("""\
-            1. **SOLO descarga de CyberLeakGTA6.com**
+            1. **SOLO descarga de CyberLeakGTA6.net**
             2. **NUNCA** de torrents aleatorios
             3. **Verifica tamaños** - nuestros builds 15-25GB, NO 113GB
             4. **Usa antivirus** - Windows Defender vale
@@ -1640,11 +1640,11 @@ def _es() -> dict:
             - ✅ Descarga directa oficial
         """),
         "sec_safety_report_h": "📧 Reportar sitios falsos",
-        "sec_safety_report_p": "Si encuentras sitios sospechosos «CyberLeak» o «GTA 6 download», repórtalos. Único sitio oficial: **CyberLeakGTA6.com**.",
+        "sec_safety_report_p": "Si encuentras sitios sospechosos «CyberLeak» o «GTA 6 download», repórtalos. Único sitio oficial: **CyberLeakGTA6.net**.",
         "sec_faq_title": "❓ FAQ (Preguntas frecuentes)",
         "faq": [
             ("P: ¿Es el build jugable real de GTA 6 de CyberLeak?",
-             "**R:** ¡SÍ! Archivo auténtico con archivos jugables, launcher y todo el footage. CyberLeakGTA6.com es la fuente oficial."),
+             "**R:** ¡SÍ! Archivo auténtico con archivos jugables, launcher y todo el footage. CyberLeakGTA6.net es la fuente oficial."),
             ("P: ¿Puedo jugar GTA 6 antes del lanzamiento 19 noviembre 2026?",
              "**R:** ¡SÍ! Descarga nuestro launcher y los builds filtrados. Incluye Vice City, misiones, vehículos y Jason Duval y Lucia Caminos."),
             ("P: ¿Es legal descargar el build filtrado?",
@@ -1662,7 +1662,7 @@ def _es() -> dict:
             ("P: ¿Es el juego completo o demo?",
              "**R:** Builds dev 2021-2022, no el juego final. Incluyen gran parte de Vice City, misiones, Jason & Lucia, 150+ vehículos y más."),
             ("P: ¿Se actualizará con nuevas filtraciones?",
-             "**R:** ¡SÍ! Monitorizamos CyberLeak y actualizamos. Marca **CyberLeakGTA6.com**."),
+             "**R:** ¡SÍ! Monitorizamos CyberLeak y actualizamos. Marca **CyberLeakGTA6.net**."),
             ("P: ¿Puedo modificar el build?",
              "**R:** ¡SÍ! Con código fuente 3GB+, modders pueden crear mods y scripts."),
             ("P: ¿Hay multijugador / GTA Online?",
@@ -1762,7 +1762,7 @@ def _de() -> dict:
         "sec_why_safe_list": dedent("""\
             - 15+ Antivirus-Scans
             - Keine Malware
-            - CyberLeakGTA6.com offiziell
+            - CyberLeakGTA6.net offiziell
         """),
         "sec_included_title": "🎮 Inhalt",
         "sec_included_builds_h": "🕹️ Spielbare Builds",
@@ -1826,7 +1826,7 @@ def _de() -> dict:
             "Schritt 8: Starten & spielen!",
         ],
         "install_bodies": [
-            f'Klicke oben auf Download für **[CyberLeakGTA6.com](https://cyberleakgta6.com)** — offizielle Quelle.',
+            f'Klicke oben auf Download für **[CyberLeakGTA6.net](https://cyberleakgta6.net)** — offizielle Quelle.',
             dedent("""\
                 Wähle deine GTA 6 Build-Version:
                             - **Q2 2022 (Empfohlen)** - Stabilste Version
@@ -1929,7 +1929,7 @@ def _de() -> dict:
             "✅ **Bewiesener Zugang**",
             "✅ **Umfassend**",
         ],
-        "sec_about_official": "CyberLeakGTA6.com — offizielles Archiv.",
+        "sec_about_official": "CyberLeakGTA6.net — offizielles Archiv.",
         "sec_safety_title": "🛡️ Sicherheit",
         "sec_safety_warn_h": "⚠️ WARNUNG",
         "sec_safety_warn_p": "**VORSICHT VOR FAKES!**",
@@ -1937,7 +1937,7 @@ def _de() -> dict:
         "sec_safety_fake_p": "Häufig: **113GB Torrent** mit Malware.",
         "sec_safety_how_h": "✅ Sicher bleiben:",
         "sec_safety_how_list": dedent("""\
-            1. **Nur CyberLeakGTA6.com**
+            1. **Nur CyberLeakGTA6.net**
             2. Keine Random-Torrents
             3. Größe prüfen: 15-25GB
         """),
@@ -1947,11 +1947,11 @@ def _de() -> dict:
             - ✅ Keine Miner/Spyware
         """),
         "sec_safety_report_h": "📧 Fake-Meldung",
-        "sec_safety_report_p": "Nur **CyberLeakGTA6.com** ist offiziell.",
+        "sec_safety_report_p": "Nur **CyberLeakGTA6.net** ist offiziell.",
         "sec_faq_title": "❓ FAQ",
         "faq": [
             ("F: Ist das der echte spielbare GTA 6 Build von CyberLeak?",
-             "A: JA! Authentisches CyberLeak-Archiv mit spielbaren Dateien, Launcher und Footage. CyberLeakGTA6.com ist die offizielle Quelle."),
+             "A: JA! Authentisches CyberLeak-Archiv mit spielbaren Dateien, Launcher und Footage. CyberLeakGTA6.net ist die offizielle Quelle."),
             ("F: Kann ich GTA 6 vor dem Release am 19. November 2026 spielen?",
              "A: JA! Launcher und Builds herunterladen. Vice City, Missionen, Fahrzeuge, Jason Duval und Lucia Caminos."),
             ("F: Ist der Download legal?",
@@ -1969,7 +1969,7 @@ def _de() -> dict:
             ("F: Volles Spiel oder Demo?",
              "A: Dev-Builds 2021-2022. Große Vice City-Karte, Missionen, Jason & Lucia, 150+ Fahrzeuge u.v.m."),
             ("F: Updates bei neuen Leaks?",
-             "A: JA! Bookmark **CyberLeakGTA6.com**."),
+             "A: JA! Bookmark **CyberLeakGTA6.net**."),
             ("F: Modding möglich?",
              "A: JA! 3GB+ Quellcode für Modder."),
             ("F: Multiplayer / GTA Online?",
@@ -2067,7 +2067,7 @@ def _fr() -> dict:
                       '- Sans virus ni malware\n'
                       '- Sans mineurs cachés\n'
                       '- Structure transparente\n'
-                      '- Source officielle CyberLeakGTA6.com',
+                      '- Source officielle CyberLeakGTA6.net',
  'sec_included_title': '🎮 Contenu inclus',
  'sec_included_builds_h': '🕹️ Builds jouables',
  'tbl_build_header': ('Version', 'Date', 'Statut', 'Caractéristiques'),
@@ -2136,7 +2136,7 @@ def _fr() -> dict:
                     'Étape 7 : Configurer les paramètres',
                     'Étape 8 : Lancer et jouer !'],
  'install_bodies': ['Cliquez sur le bouton de téléchargement pour visiter '
-                    '**[CyberLeakGTA6.com](https://cyberleakgta6.com)** — source officielle et sûre.',
+                    '**[CyberLeakGTA6.net](https://cyberleakgta6.net)** — source officielle et sûre.',
                     'Choisissez votre version de build GTA 6 :\n'
                     '- **Q2 2022 (Recommandé)** - Plus stable et complet\n'
                     '- **Q1 2022** - Bon équilibre\n'
@@ -2211,7 +2211,7 @@ def _fr() -> dict:
                         '✅ **Plus complet** - Plus de fonctions et de gameplay',
                         '✅ **Accès prouvé** - Build jouable réel démontré',
                         '✅ **Complet** - Vice City, protagonistes, missions, etc.'],
- 'sec_about_official': "CyberLeakGTA6.com est l'archive officielle de tout le contenu CyberLeak.",
+ 'sec_about_official': "CyberLeakGTA6.net est l'archive officielle de tout le contenu CyberLeak.",
  'sec_safety_title': '🛡️ Sécurité',
  'sec_safety_warn_h': '⚠️ AVERTISSEMENT IMPORTANT',
  'sec_safety_warn_p': '**ATTENTION AUX FAUX TÉLÉCHARGEMENTS !** Des sites arnaque distribuent de **faux « builds GTA 6 '
@@ -2223,7 +2223,7 @@ def _fr() -> dict:
                          '- ❌ Chevaux de Troie',
  'sec_safety_fake_p': 'Le faux le plus courant : **torrent de 113 Go** avec espace vide et malware caché.',
  'sec_safety_how_h': '✅ Comment rester en sécurité :',
- 'sec_safety_how_list': '1. **Téléchargez UNIQUEMENT depuis CyberLeakGTA6.com**\n'
+ 'sec_safety_how_list': '1. **Téléchargez UNIQUEMENT depuis CyberLeakGTA6.net**\n'
                         '2. **JAMAIS** depuis des torrents aléatoires\n'
                         '3. **Vérifiez les tailles** - nos builds 15-25 Go, PAS 113 Go\n'
                         '4. **Utilisez un antivirus** - Windows Defender suffit\n'
@@ -2238,10 +2238,10 @@ def _fr() -> dict:
                               '- ✅ Téléchargement direct officiel',
  'sec_safety_report_h': '📧 Signaler de faux sites',
  'sec_safety_report_p': 'Si vous trouvez des sites suspects « CyberLeak » ou « GTA 6 download », signalez-les. Seul '
-                        'site officiel : **CyberLeakGTA6.com**.',
+                        'site officiel : **CyberLeakGTA6.net**.',
  'sec_faq_title': '❓ FAQ (Questions fréquentes)',
  'faq': [('Q: Est-ce le vrai build jouable GTA 6 de CyberLeak ?',
-          '**R:** OUI ! Archive authentique avec fichiers jouables, launcher et tout le footage. CyberLeakGTA6.com est '
+          '**R:** OUI ! Archive authentique avec fichiers jouables, launcher et tout le footage. CyberLeakGTA6.net est '
           'la source officielle.'),
          ('Q: Puis-je jouer à GTA 6 avant la sortie du 19 novembre 2026 ?',
           '**R:** OUI ! Téléchargez notre launcher et les builds filtrés. Vice City, missions, véhicules, Jason Duval '
@@ -2266,7 +2266,7 @@ def _fr() -> dict:
           '**R:** Builds dev 2021-2022, pas le jeu final. Grande carte Vice City, missions, Jason & Lucia, 150+ '
           'véhicules et plus.'),
          ('Q: Sera-t-il mis à jour avec de nouvelles fuites ?',
-          '**R:** OUI ! Nous surveillons CyberLeak et mettons à jour. Ajoutez **CyberLeakGTA6.com** en favoris.'),
+          '**R:** OUI ! Nous surveillons CyberLeak et mettons à jour. Ajoutez **CyberLeakGTA6.net** en favoris.'),
          ('Q: Puis-je modder le build ?',
           '**R:** OUI ! Avec 3 Go+ de code source, les moddeurs peuvent créer mods et scripts.'),
          ('Q: Y a-t-il du multijoueur / GTA Online ?',
@@ -2369,7 +2369,7 @@ def _it() -> dict:
                       '- Nessun virus o malware\n'
                       '- Nessun miner nascosto\n'
                       '- Struttura trasparente\n'
-                      '- Fonte ufficiale CyberLeakGTA6.com',
+                      '- Fonte ufficiale CyberLeakGTA6.net',
  'sec_included_title': '🎮 Contenuto incluso',
  'sec_included_builds_h': '🕹️ Build giocabili',
  'tbl_build_header': ('Versione', 'Data', 'Stato', 'Caratteristiche'),
@@ -2437,7 +2437,7 @@ def _it() -> dict:
                     'Passo 6: Esegui GTA6Launcher.exe',
                     'Passo 7: Configura impostazioni',
                     'Passo 8: Avvia e gioca!'],
- 'install_bodies': ['Clicca il pulsante download per visitare **[CyberLeakGTA6.com](https://cyberleakgta6.com)** — '
+ 'install_bodies': ['Clicca il pulsante download per visitare **[CyberLeakGTA6.net](https://cyberleakgta6.net)** — '
                     'fonte ufficiale e sicura.',
                     'Scegli la versione build GTA 6:\n'
                     '- **Q2 2022 (Consigliato)** - Più stabile e completo\n'
@@ -2511,14 +2511,14 @@ def _it() -> dict:
                         '✅ **Più completo** - Più funzioni e gameplay',
                         '✅ **Accesso provato** - Build giocabile reale dimostrato',
                         '✅ **Completo** - Vice City, protagonisti, missioni, ecc.'],
- 'sec_about_official': "CyberLeakGTA6.com è l'archivio ufficiale di tutto il contenuto CyberLeak.",
+ 'sec_about_official': "CyberLeakGTA6.net è l'archivio ufficiale di tutto il contenuto CyberLeak.",
  'sec_safety_title': '🛡️ Sicurezza',
  'sec_safety_warn_h': '⚠️ AVVERTENZA IMPORTANTE',
  'sec_safety_warn_p': '**ATTENZIONE AI DOWNLOAD FALSI!** Siti truffa distribuiscono **falsi «build GTA 6»** con:',
  'sec_safety_warn_list': '- ❌ Virus e malware\n- ❌ Ransomware\n- ❌ Miner crypto\n- ❌ Spyware e keylogger\n- ❌ Trojan',
  'sec_safety_fake_p': 'Il falso più comune: **torrent da 113GB** con spazio vuoto e malware nascosto.',
  'sec_safety_how_h': '✅ Come restare al sicuro:',
- 'sec_safety_how_list': '1. **Scarica SOLO da CyberLeakGTA6.com**\n'
+ 'sec_safety_how_list': '1. **Scarica SOLO da CyberLeakGTA6.net**\n'
                         '2. **MAI** da torrent casuali\n'
                         '3. **Verifica le dimensioni** - i nostri build 15-25GB, NON 113GB\n'
                         '4. **Usa antivirus** - Windows Defender va bene\n'
@@ -2533,10 +2533,10 @@ def _it() -> dict:
                               '- ✅ Download diretto ufficiale',
  'sec_safety_report_h': '📧 Segnala siti falsi',
  'sec_safety_report_p': 'Se trovi siti sospetti «CyberLeak» o «GTA 6 download», segnalali. Unico sito ufficiale: '
-                        '**CyberLeakGTA6.com**.',
+                        '**CyberLeakGTA6.net**.',
  'sec_faq_title': '❓ FAQ (Domande frequenti)',
  'faq': [('D: È il vero build giocabile GTA 6 di CyberLeak?',
-          '**R:** SÌ! Archivio autentico con file giocabili, launcher e tutto il footage. CyberLeakGTA6.com è la fonte '
+          '**R:** SÌ! Archivio autentico con file giocabili, launcher e tutto il footage. CyberLeakGTA6.net è la fonte '
           'ufficiale.'),
          ("D: Posso giocare a GTA 6 prima dell'uscita del 19 novembre 2026?",
           '**R:** SÌ! Scarica il nostro launcher e i build trapelati. Vice City, missioni, veicoli, Jason Duval e '
@@ -2560,7 +2560,7 @@ def _it() -> dict:
           '**R:** Build dev 2021-2022, non il gioco finale. Grande mappa Vice City, missioni, Jason & Lucia, 150+ '
           'veicoli e altro.'),
          ('D: Sarà aggiornato con nuove fughe?',
-          '**R:** SÌ! Monitoriamo CyberLeak e aggiorniamo. Aggiungi **CyberLeakGTA6.com** ai preferiti.'),
+          '**R:** SÌ! Monitoriamo CyberLeak e aggiorniamo. Aggiungi **CyberLeakGTA6.net** ai preferiti.'),
          ('D: Posso moddare il build?',
           '**R:** SÌ! Con 3GB+ di codice sorgente, i modder possono creare mod e script.'),
          ("D: C'è multigiocatore / GTA Online?",
@@ -2659,7 +2659,7 @@ def _pt() -> dict:
                       '- Sem vírus ou malware\n'
                       '- Sem miners ocultos\n'
                       '- Estrutura transparente\n'
-                      '- Fonte oficial CyberLeakGTA6.com',
+                      '- Fonte oficial CyberLeakGTA6.net',
  'sec_included_title': '🎮 Conteúdo incluído',
  'sec_included_builds_h': '🕹️ Builds jogáveis',
  'tbl_build_header': ('Versão', 'Data', 'Status', 'Recursos'),
@@ -2727,7 +2727,7 @@ def _pt() -> dict:
                     'Passo 6: Execute GTA6Launcher.exe',
                     'Passo 7: Configure ajustes',
                     'Passo 8: Inicie e jogue!'],
- 'install_bodies': ['Clique no botão de download para visitar **[CyberLeakGTA6.com](https://cyberleakgta6.com)** — '
+ 'install_bodies': ['Clique no botão de download para visitar **[CyberLeakGTA6.net](https://cyberleakgta6.net)** — '
                     'fonte oficial e segura.',
                     'Escolha sua versão de build GTA 6:\n'
                     '- **Q2 2022 (Recomendado)** - Mais estável e completo\n'
@@ -2801,7 +2801,7 @@ def _pt() -> dict:
                         '✅ **Mais completo** - Mais recursos e gameplay',
                         '✅ **Acesso comprovado** - Build jogável real demonstrado',
                         '✅ **Abrangente** - Vice City, protagonistas, missões, etc.'],
- 'sec_about_official': 'CyberLeakGTA6.com é o arquivo oficial de todo o conteúdo CyberLeak.',
+ 'sec_about_official': 'CyberLeakGTA6.net é o arquivo oficial de todo o conteúdo CyberLeak.',
  'sec_safety_title': '🛡️ Segurança',
  'sec_safety_warn_h': '⚠️ AVISO IMPORTANTE',
  'sec_safety_warn_p': '**CUIDADO COM DOWNLOADS FALSOS!** Sites fraudulentos distribuem **«builds GTA 6» falsos** com:',
@@ -2812,7 +2812,7 @@ def _pt() -> dict:
                          '- ❌ Trojans',
  'sec_safety_fake_p': 'A falsificação mais comum: **torrent de 113GB** com espaço vazio e malware oculto.',
  'sec_safety_how_h': '✅ Como se manter seguro:',
- 'sec_safety_how_list': '1. **Baixe APENAS de CyberLeakGTA6.com**\n'
+ 'sec_safety_how_list': '1. **Baixe APENAS de CyberLeakGTA6.net**\n'
                         '2. **NUNCA** de torrents aleatórios\n'
                         '3. **Verifique tamanhos** - nossos builds 15-25GB, NÃO 113GB\n'
                         '4. **Use antivírus** - Windows Defender serve\n'
@@ -2827,10 +2827,10 @@ def _pt() -> dict:
                               '- ✅ Download direto oficial',
  'sec_safety_report_h': '📧 Reportar sites falsos',
  'sec_safety_report_p': 'Se encontrar sites suspeitos «CyberLeak» ou «GTA 6 download», reporte. Único site oficial: '
-                        '**CyberLeakGTA6.com**.',
+                        '**CyberLeakGTA6.net**.',
  'sec_faq_title': '❓ FAQ (Perguntas frequentes)',
  'faq': [('P: É o build jogável real GTA 6 do CyberLeak?',
-          '**R:** SIM! Arquivo autêntico com arquivos jogáveis, launcher e todo footage. CyberLeakGTA6.com é a fonte '
+          '**R:** SIM! Arquivo autêntico com arquivos jogáveis, launcher e todo footage. CyberLeakGTA6.net é a fonte '
           'oficial.'),
          ('P: Posso jogar GTA 6 antes do lançamento em 19 de novembro de 2026?',
           '**R:** SIM! Baixe nosso launcher e builds vazados. Vice City, missões, veículos, Jason Duval e Lucia '
@@ -2852,7 +2852,7 @@ def _pt() -> dict:
           '**R:** Builds dev 2021-2022, não o jogo final. Grande mapa Vice City, missões, Jason & Lucia, 150+ veículos '
           'e mais.'),
          ('P: Será atualizado com novos vazamentos?',
-          '**R:** SIM! Monitoramos CyberLeak e atualizamos. Favorite **CyberLeakGTA6.com**.'),
+          '**R:** SIM! Monitoramos CyberLeak e atualizamos. Favorite **CyberLeakGTA6.net**.'),
          ('P: Posso modificar o build?', '**R:** SIM! Com 3GB+ de código-fonte, modders podem criar mods e scripts.'),
          ('P: Há multijogador / GTA Online?',
           '**R:** NÃO. Builds single-player. Código GTA Online 2 inicial mas sem multijogador funcional.'),
@@ -2953,7 +2953,7 @@ def _pl() -> dict:
                       '- Bez wirusów i malware\n'
                       '- Bez ukrytych minerów\n'
                       '- Przejrzysta struktura\n'
-                      '- Oficjalne źródło CyberLeakGTA6.com',
+                      '- Oficjalne źródło CyberLeakGTA6.net',
  'sec_included_title': '🎮 Co zawiera',
  'sec_included_builds_h': '🕹️ Grywalne buildy',
  'tbl_build_header': ('Wersja', 'Data', 'Status', 'Funkcje'),
@@ -3024,7 +3024,7 @@ def _pl() -> dict:
                     'Krok 6: Uruchom GTA6Launcher.exe',
                     'Krok 7: Skonfiguruj ustawienia',
                     'Krok 8: Uruchom i graj!'],
- 'install_bodies': ['Kliknij przycisk pobierania, aby odwiedzić **[CyberLeakGTA6.com](https://cyberleakgta6.com)** — '
+ 'install_bodies': ['Kliknij przycisk pobierania, aby odwiedzić **[CyberLeakGTA6.net](https://cyberleakgta6.net)** — '
                     'oficjalne i bezpieczne źródło.',
                     'Wybierz wersję buildu GTA 6:\n'
                     '- **Q2 2022 (Polecany)** - Najbardziej stabilny i kompletny\n'
@@ -3100,7 +3100,7 @@ def _pl() -> dict:
                         '✅ **Pełniejsza** - Więcej funkcji i rozgrywki',
                         '✅ **Udowodniony dostęp** - Prawdziwy grywalny build',
                         '✅ **Kompleksowa** - Vice City, protagonistów, misje itd.'],
- 'sec_about_official': 'CyberLeakGTA6.com to oficjalne archiwum całej treści CyberLeak.',
+ 'sec_about_official': 'CyberLeakGTA6.net to oficjalne archiwum całej treści CyberLeak.',
  'sec_safety_title': '🛡️ Bezpieczeństwo',
  'sec_safety_warn_h': '⚠️ WAŻNE OSTRZEŻENIE',
  'sec_safety_warn_p': '**UWAŻAJ NA FAŁSZYWE POBIERANIA!** Oszukańcze strony rozpowszechniają **fałszywe «buildy GTA '
@@ -3112,7 +3112,7 @@ def _pl() -> dict:
                          '- ❌ Konie trojańskie',
  'sec_safety_fake_p': 'Najczęstszy fałszywiec: **torrent 113GB** z pustą przestrzenią i ukrytym malware.',
  'sec_safety_how_h': '✅ Jak pozostać bezpiecznym:',
- 'sec_safety_how_list': '1. **Pobieraj TYLKO z CyberLeakGTA6.com**\n'
+ 'sec_safety_how_list': '1. **Pobieraj TYLKO z CyberLeakGTA6.net**\n'
                         '2. **NIGDY** z losowych torrentów\n'
                         '3. **Sprawdź rozmiary** - nasze buildy 15-25GB, NIE 113GB\n'
                         '4. **Używaj antywirusa** - Windows Defender wystarczy\n'
@@ -3127,10 +3127,10 @@ def _pl() -> dict:
                               '- ✅ Oficjalne bezpośrednie pobieranie',
  'sec_safety_report_h': '📧 Zgłoś fałszywe strony',
  'sec_safety_report_p': 'Jeśli znajdziesz podejrzane strony «CyberLeak» lub «GTA 6 download», zgłoś je. Jedyna '
-                        'oficjalna strona: **CyberLeakGTA6.com**.',
+                        'oficjalna strona: **CyberLeakGTA6.net**.',
  'sec_faq_title': '❓ FAQ (Najczęściej zadawane pytania)',
  'faq': [('P: Czy to prawdziwy grywalny build GTA 6 od CyberLeak?',
-          '**O:** TAK! Autentyczne archiwum z plikami grywalnymi, launcherem i całym materiałem. CyberLeakGTA6.com to '
+          '**O:** TAK! Autentyczne archiwum z plikami grywalnymi, launcherem i całym materiałem. CyberLeakGTA6.net to '
           'oficjalne źródło.'),
          ('P: Czy mogę grać w GTA 6 przed premierą 19 listopada 2026?',
           '**O:** TAK! Pobierz nasz launcher i wycieki. Vice City, misje, pojazdy, Jason Duval i Lucia Caminos.'),
@@ -3152,7 +3152,7 @@ def _pl() -> dict:
           '**O:** Buildy dev 2021-2022, nie finalna gra. Duża mapa Vice City, misje, Jason & Lucia, 150+ pojazdów i '
           'więcej.'),
          ('P: Czy będzie aktualizowany przy nowych wyciekach?',
-          '**O:** TAK! Monitorujemy CyberLeak i aktualizujemy. Dodaj **CyberLeakGTA6.com** do zakładek.'),
+          '**O:** TAK! Monitorujemy CyberLeak i aktualizujemy. Dodaj **CyberLeakGTA6.net** do zakładek.'),
          ('P: Czy mogę modować build?', '**O:** TAK! Z 3GB+ kodu źródłowego modderzy mogą tworzyć mody i skrypty.'),
          ('P: Czy jest multiplayer / GTA Online?',
           '**O:** NIE. Buildy single-player. Wczesny kod GTA Online 2 bez działającego multiplayer.'),
@@ -3237,7 +3237,7 @@ def _zh() -> dict:
  'sec_why_free_h': '🆓 **100% 免费**',
  'sec_why_free_list': '- 无需付款\n- 无需注册\n- 无需调查\n- 直接下载\n- 即时访问',
  'sec_why_safe_h': '🛡️ **安全且已验证**',
- 'sec_why_safe_list': '- 经15+杀毒引擎扫描\n- 无病毒和恶意软件\n- 无隐藏挖矿程序\n- 透明文件结构\n- 官方来源 CyberLeakGTA6.com',
+ 'sec_why_safe_list': '- 经15+杀毒引擎扫描\n- 无病毒和恶意软件\n- 无隐藏挖矿程序\n- 透明文件结构\n- 官方来源 CyberLeakGTA6.net',
  'sec_included_title': '🎮 包含内容',
  'sec_included_builds_h': '🕹️ 可玩游戏版本',
  'tbl_build_header': ('版本', '日期', '状态', '特性'),
@@ -3276,7 +3276,7 @@ def _zh() -> dict:
                     '步骤6：运行 GTA6Launcher.exe',
                     '步骤7：配置设置',
                     '步骤8：启动并游玩！'],
- 'install_bodies': ['点击页面顶部的下载按钮访问 **[CyberLeakGTA6.com](https://cyberleakgta6.com)** — 官方安全来源。',
+ 'install_bodies': ['点击页面顶部的下载按钮访问 **[CyberLeakGTA6.net](https://cyberleakgta6.net)** — 官方安全来源。',
                     '选择 GTA 6 版本：\n- **Q2 2022（推荐）** - 最稳定、功能最全\n- **Q1 2022** - 功能与稳定性平衡\n- **Q4 2021** - 早期开发版本',
                     '- 大小：约5GB\n- 包含启动器和核心文件\n- 仅 Windows 10/11 64位',
                     '- 每个版本15-25GB\n- 压缩包（.zip 或 .rar）\n- 建议空间：100GB+',
@@ -3339,14 +3339,14 @@ def _zh() -> dict:
                         '✅ **更完整** - 展示更多功能和 gameplay',
                         '✅ **已证明访问** - 展示真实可玩版本',
                         '✅ **全面** - Vice City、双主角、任务等'],
- 'sec_about_official': 'CyberLeakGTA6.com 是所有 CyberLeak 内容的官方档案。',
+ 'sec_about_official': 'CyberLeakGTA6.net 是所有 CyberLeak 内容的官方档案。',
  'sec_safety_title': '🛡️ 安全',
  'sec_safety_warn_h': '⚠️ 重要警告',
  'sec_safety_warn_p': '**谨防虚假下载！**许多诈骗网站和 torrent 站点传播**虚假「GTA 6 版本」**，包含：',
  'sec_safety_warn_list': '- ❌ 病毒和恶意软件\n- ❌ 勒索软件\n- ❌ 加密货币挖矿程序\n- ❌ 间谍软件和键盘记录器\n- ❌ 窃取数据的木马',
  'sec_safety_fake_p': '最常见的假货：**113GB torrent 文件**，大部分是空白空间，内藏恶意软件。',
  'sec_safety_how_h': '✅ 如何保持安全：',
- 'sec_safety_how_list': '1. **只从 CyberLeakGTA6.com 下载** - 官方来源\n'
+ 'sec_safety_how_list': '1. **只从 CyberLeakGTA6.net 下载** - 官方来源\n'
                         '2. **绝不**从随机 torrent 站点下载\n'
                         '3. **检查文件大小** - 我们的版本每个15-25GB，不是113GB\n'
                         '4. **使用杀毒软件** - Windows Defender 即可\n'
@@ -3355,10 +3355,10 @@ def _zh() -> dict:
  'sec_safety_guarantee_h': '🛡️ 我们的安全保证：',
  'sec_safety_guarantee_list': '- ✅ 经15+杀毒引擎扫描\n- ✅ 无需注册\n- ✅ 无隐藏文件\n- ✅ 无挖矿程序\n- ✅ 无间谍软件\n- ✅ 官方直接下载',
  'sec_safety_report_h': '📧 举报虚假网站',
- 'sec_safety_report_p': '若发现可疑的「CyberLeak」或「GTA 6 download」网站，请举报。唯一官方网站：**CyberLeakGTA6.com**。',
+ 'sec_safety_report_p': '若发现可疑的「CyberLeak」或「GTA 6 download」网站，请举报。唯一官方网站：**CyberLeakGTA6.net**。',
  'sec_faq_title': '❓ 常见问题（FAQ）',
  'faq': [('问: 这是 CyberLeak 的真实 GTA 6 可玩版本吗？',
-          '**答:** 是！这是包含可玩文件、自定义启动器和所有泄露画面的真实 CyberLeak 档案。CyberLeakGTA6.com 是完整泄露集的官方来源。'),
+          '**答:** 是！这是包含可玩文件、自定义启动器和所有泄露画面的真实 CyberLeak 档案。CyberLeakGTA6.net 是完整泄露集的官方来源。'),
          ('问: 我能在2026年11月19日正式发售前玩 GTA 6 吗？',
           '**答:** 能！下载我们的 GTA 6 启动器和泄露版本文件。包含 Vice City、剧情任务、支线、载具以及 Jason Duval 和 Lucia Caminos。'),
          ('问: 下载 GTA 6 泄露版本合法吗？',
@@ -3372,7 +3372,7 @@ def _zh() -> dict:
          ('问: 支持 PS5、Xbox Series X/S 或 Mac 吗？', '**答:** 不支持。目前仅支持 Windows PC（64位）。泄露版本是 PC 开发版。'),
          ('问: 是完整 GTA 6 还是演示版？',
           '**答:** 这些是2021-2022年开发版本，不是2026年11月的最终完整游戏。但包含大量内容：Vice City 大部分地图、多个剧情任务、双主角、150+载具等。'),
-         ('问: 有新泄露时会更新吗？', '**答:** 会！我们持续监控 CyberLeak 新内容并更新档案。收藏 **CyberLeakGTA6.com** 并定期查看。'),
+         ('问: 有新泄露时会更新吗？', '**答:** 会！我们持续监控 CyberLeak 新内容并更新档案。收藏 **CyberLeakGTA6.net** 并定期查看。'),
          ('问: 可以 Mod 泄露版本吗？', '**答:** 可以！我们提供3GB+源代码，有经验的 Mod 作者可以创建 Mod、脚本和自定义内容。'),
          ('问: 有多人模式 / GTA Online 吗？', '**答:** 没有。这些是单人开发版本。包含部分 GTA Online 2 早期代码和资源，但无可用多人模式。'),
          ('问: 杀毒软件标记启动器——安全吗？', '**答:** 我们的启动器100%安全，经15+杀毒引擎扫描。部分杀毒软件启发式检测可能误报。可添加例外或上传 VirusTotal.com 验证。'),
@@ -3454,7 +3454,7 @@ def _ja() -> dict:
  'sec_why_free_h': '🆓 **100% 無料**',
  'sec_why_free_list': '- 支払い不要\n- 登録不要\n- アンケート不要\n- 直接 DL\n- 即時アクセス',
  'sec_why_safe_h': '🛡️ **安全で検証済み**',
- 'sec_why_safe_list': '- 15+ AV でスキャン\n- ウイルス・マルウェアなし\n- 隠しマイナーなし\n- 透明なファイル構造\n- 公式 CyberLeakGTA6.com',
+ 'sec_why_safe_list': '- 15+ AV でスキャン\n- ウイルス・マルウェアなし\n- 隠しマイナーなし\n- 透明なファイル構造\n- 公式 CyberLeakGTA6.net',
  'sec_included_title': '🎮 含まれる内容',
  'sec_included_builds_h': '🕹️ プレイ可能ビルド',
  'tbl_build_header': ('バージョン', '日付', 'ステータス', '機能'),
@@ -3505,7 +3505,7 @@ def _ja() -> dict:
                     'ステップ6：GTA6Launcher.exe 実行',
                     'ステップ7：設定',
                     'ステップ8：起動してプレイ！'],
- 'install_bodies': ['ページ上部の DL ボタンで **[CyberLeakGTA6.com](https://cyberleakgta6.com)** — 公式安全ソース。',
+ 'install_bodies': ['ページ上部の DL ボタンで **[CyberLeakGTA6.net](https://cyberleakgta6.net)** — 公式安全ソース。',
                     'GTA 6 ビルド版を選択：\n- **Q2 2022（推奨）** - 最も安定で完全\n- **Q1 2022** - バランス良好\n- **Q4 2021** - 初期開発',
                     '- サイズ：約5GB\n- ランチャーとコアファイル含む\n- Windows 10/11 64-bit のみ',
                     '- 各ビルド 15-25GB\n- 圧縮アーカイブ（.zip または .rar）\n- 推奨空き容量：100GB+',
@@ -3568,14 +3568,14 @@ def _ja() -> dict:
                         '✅ **より完全** - より多くの機能とゲームプレイ',
                         '✅ **アクセス証明済み** - プレイ可能ビルド実証',
                         '✅ **包括的** - Vice City、両主人公、ミッション等'],
- 'sec_about_official': 'CyberLeakGTA6.com は全 CyberLeak コンテンツの公式アーカイブ。',
+ 'sec_about_official': 'CyberLeakGTA6.net は全 CyberLeak コンテンツの公式アーカイブ。',
  'sec_safety_title': '🛡️ セキュリティ',
  'sec_safety_warn_h': '⚠️ 重要警告',
  'sec_safety_warn_p': '**偽 DL に注意！** 詐欺サイトが**偽「GTA 6 ビルド」**を配布：',
  'sec_safety_warn_list': '- ❌ ウイルスとマルウェア\n- ❌ ランサムウェア\n- ❌ 暗号通貨マイナー\n- ❌ スパイウェアとキーロガー\n- ❌ トロイの木馬',
  'sec_safety_fake_p': '最も一般的な偽物：**113GB torrent** — ほぼ空のスペースにマルウェア隠蔽。',
  'sec_safety_how_h': '✅ 安全のために：',
- 'sec_safety_how_list': '1. **CyberLeakGTA6.com からのみ DL**\n'
+ 'sec_safety_how_list': '1. **CyberLeakGTA6.net からのみ DL**\n'
                         '2. **ランダム torrent からは絶対に DL しない**\n'
                         '3. **ファイルサイズ確認** - 当ビルド 15-25GB、113GB ではない\n'
                         '4. **アンチウイルス使用** - Windows Defender で可\n'
@@ -3584,10 +3584,10 @@ def _ja() -> dict:
  'sec_safety_guarantee_h': '🛡️ 安全保証：',
  'sec_safety_guarantee_list': '- ✅ 15+ AV スキャン\n- ✅ 登録不要\n- ✅ 隠しファイルなし\n- ✅ マイナーなし\n- ✅ スパイウェアなし\n- ✅ 公式直接 DL',
  'sec_safety_report_h': '📧 偽サイト報告',
- 'sec_safety_report_p': '疑わしい「CyberLeak」「GTA 6 download」サイトを見つけたら報告。唯一の公式：**CyberLeakGTA6.com**。',
+ 'sec_safety_report_p': '疑わしい「CyberLeak」「GTA 6 download」サイトを見つけたら報告。唯一の公式：**CyberLeakGTA6.net**。',
  'sec_faq_title': '❓ FAQ（よくある質問）',
  'faq': [('Q: これは CyberLeak の本物 GTA 6 プレイ可能ビルド？',
-          '**A:** はい！プレイ可能ファイル、ランチャー、全映像を含む真正 CyberLeak アーカイブ。CyberLeakGTA6.com が公式ソース。'),
+          '**A:** はい！プレイ可能ファイル、ランチャー、全映像を含む真正 CyberLeak アーカイブ。CyberLeakGTA6.net が公式ソース。'),
          ('Q: 2026年11月19日正式リリース前に GTA 6 をプレイできる？',
           '**A:** はい！ランチャーとリークビルドを DL。Vice City、ミッション、車両、Jason Duval と Lucia Caminos。'),
          ('Q: リークビルドの DL は合法？', '**A:** 教育・アーカイブ目的の開発ビルドリーク。海賊版は推奨しません。**2026年11月19日 GTA 6 購入で Rockstar を支援。**'),
@@ -3598,7 +3598,7 @@ def _ja() -> dict:
          ('Q: DL サイズと必要容量？', '**A:** \\n- ランチャー：約5GB\\n- 各ビルド：15-25GB\\n- 合計：約80-100GB\\n- **推奨：** SSD 100GB+'),
          ('Q: PS5、Xbox、Mac で動作？', '**A:** いいえ。Windows PC 64-bit のみ。PC 開発ビルド。'),
          ('Q: 完全版かデモ？', '**A:** 2021-2022年開発ビルド、最終版ではない。Vice City 大部分、ミッション、Jason & Lucia、150+車両等。'),
-         ('Q: 新リークで更新？', '**A:** はい！CyberLeak を監視し更新。**CyberLeakGTA6.com** をブックマーク。'),
+         ('Q: 新リークで更新？', '**A:** はい！CyberLeak を監視し更新。**CyberLeakGTA6.net** をブックマーク。'),
          ('Q: Mod 可能？', '**A:** はい！3GB+ ソースコードで Modder が Mod・スクリプト作成可能。'),
          ('Q: マルチプレイ / GTA Online？', '**A:** いいえ。シングルプレイヤー。GTA Online 2 初期コードあるが機能 MP なし。'),
          ('Q: AV がランチャーを検出 — 安全？', '**A:** 100%安全、15+ AV。ヒューリスティック誤検知の可能性。VirusTotal.com または例外追加。'),
@@ -3680,7 +3680,7 @@ def _ko() -> dict:
  'sec_why_free_h': '🆓 **100% 무료**',
  'sec_why_free_list': '- 결제 불필요\n- 등록 불필요\n- 설문 불필요\n- 직접 다운로드\n- 즉시 접근',
  'sec_why_safe_h': '🛡️ **안전且 검증됨**',
- 'sec_why_safe_list': '- 15+ 백신 스캔\n- 바이러스/멀웨어 없음\n- 숨겨진 마이너 없음\n- 투명한 파일 구조\n- 공식 CyberLeakGTA6.com',
+ 'sec_why_safe_list': '- 15+ 백신 스캔\n- 바이러스/멀웨어 없음\n- 숨겨진 마이너 없음\n- 투명한 파일 구조\n- 공식 CyberLeakGTA6.net',
  'sec_included_title': '🎮 포함 내용',
  'sec_included_builds_h': '🕹️ 플레이 가능 빌드',
  'tbl_build_header': ('버전', '날짜', '상태', '기능'),
@@ -3731,7 +3731,7 @@ def _ko() -> dict:
                     '6단계: GTA6Launcher.exe 실행',
                     '7단계: 설정',
                     '8단계: 실행 및 플레이!'],
- 'install_bodies': ['상단 다운로드 버튼으로 **[CyberLeakGTA6.com](https://cyberleakgta6.com)** — 공식 안전 출처.',
+ 'install_bodies': ['상단 다운로드 버튼으로 **[CyberLeakGTA6.net](https://cyberleakgta6.net)** — 공식 안전 출처.',
                     'GTA 6 빌드 버전 선택:\n- **Q2 2022 (권장)** - 가장 안정적且 완전\n- **Q1 2022** - 좋은 균형\n- **Q4 2021** - 초기 개발',
                     '- 크기: ~5GB\n- 런처 및 코어 파일 포함\n- Windows 10/11 64-bit만',
                     '- 각 빌드 15-25GB\n- 압축 아카이브 (.zip 또는 .rar)\n- 권장 공간: 100GB+',
@@ -3794,14 +3794,14 @@ def _ko() -> dict:
                         '✅ **더 완전** - 더 많은 기능과 게임플레이',
                         '✅ **접근 증명** - 플레이 가능 빌드 실증',
                         '✅ **포괄적** - Vice City, 주인공, 미션 등'],
- 'sec_about_official': 'CyberLeakGTA6.com은 모든 CyberLeak 콘텐츠 공식 아카이브.',
+ 'sec_about_official': 'CyberLeakGTA6.net은 모든 CyberLeak 콘텐츠 공식 아카이브.',
  'sec_safety_title': '🛡️ 보안',
  'sec_safety_warn_h': '⚠️ 중요 경고',
  'sec_safety_warn_p': '**가짜 다운로드 주의!** 사기 사이트가 **가짜 «GTA 6 빌드»** 배포:',
  'sec_safety_warn_list': '- ❌ 바이러스 및 멀웨어\n- ❌ 랜섬웨어\n- ❌ 암호화폐 마이너\n- ❌ 스파이웨어 및 키로거\n- ❌ 트로jan',
  'sec_safety_fake_p': '가장 흔한 가짜: **113GB 토렌트** — 빈 공간과 숨겨진 멀웨어.',
  'sec_safety_how_h': '✅ 안전 유지:',
- 'sec_safety_how_list': '1. **CyberLeakGTA6.com에서만 다운로드**\n'
+ 'sec_safety_how_list': '1. **CyberLeakGTA6.net에서만 다운로드**\n'
                         '2. **임의 토렌트 절대 금지**\n'
                         '3. **크기 확인** - 빌드 15-25GB, 113GB 아님\n'
                         '4. **백신 사용** - Windows Defender 가능\n'
@@ -3810,9 +3810,9 @@ def _ko() -> dict:
  'sec_safety_guarantee_h': '🛡️ 안전 보장:',
  'sec_safety_guarantee_list': '- ✅ 15+ AV 스캔\n- ✅ 등록 불필요\n- ✅ 숨김 파일 없음\n- ✅ 마이너 없음\n- ✅ 스파이웨어 없음\n- ✅ 공식 직접 다운로드',
  'sec_safety_report_h': '📧 가짜 사이트 신고',
- 'sec_safety_report_p': '의심스러운 «CyberLeak» «GTA 6 download» 사이트 신고. 유일 공식: **CyberLeakGTA6.com**.',
+ 'sec_safety_report_p': '의심스러운 «CyberLeak» «GTA 6 download» 사이트 신고. 유일 공식: **CyberLeakGTA6.net**.',
  'sec_faq_title': '❓ FAQ (자주 묻는 질문)',
- 'faq': [('Q: CyberLeak 진짜 GTA 6 플레이 가능 빌드?', '**A:** 예! 플레이 파일, 런처, 전 영상 포함 진짜 CyberLeak 아카이브. CyberLeakGTA6.com 공식.'),
+ 'faq': [('Q: CyberLeak 진짜 GTA 6 플레이 가능 빌드?', '**A:** 예! 플레이 파일, 런처, 전 영상 포함 진짜 CyberLeak 아카이브. CyberLeakGTA6.net 공식.'),
          ('Q: 2026년 11월 19일 출시 전 GTA 6 플레이?',
           '**A:** 예! 런처 및 유출 빌드 다운로드. Vice City, 미션, 차량, Jason Duval & Lucia Caminos.'),
          ('Q: 유출 빌드 다운로드 합법?', '**A:** 교육/아카이브 목적 개발 빌드. 불법 복제 권장 안 함. **2026년 11월 19일 GTA 6 구매로 Rockstar 지원.**'),
@@ -3823,7 +3823,7 @@ def _ko() -> dict:
          ('Q: 다운로드 크기 및 공간?', '**A:** \\n- 런처: ~5GB\\n- 각 빌드: 15-25GB\\n- 총: ~80-100GB\\n- **권장:** SSD 100GB+'),
          ('Q: PS5, Xbox, Mac?', '**A:** 아니오. Windows PC 64-bit만. PC 개발 빌드.'),
          ('Q: 완전판 또는 데모?', '**A:** 2021-2022 dev 빌드, 최종판 아님. Vice City 대부분, 미션, Jason & Lucia, 150+ 차량.'),
-         ('Q: 새 유출 시 업데이트?', '**A:** 예! CyberLeak 모니터링 및 업데이트. **CyberLeakGTA6.com** 북마크.'),
+         ('Q: 새 유출 시 업데이트?', '**A:** 예! CyberLeak 모니터링 및 업데이트. **CyberLeakGTA6.net** 북마크.'),
          ('Q: 모드 가능?', '**A:** 예! 3GB+ 소스 코드로 모더가 mod/스크립트 제작.'),
          ('Q: 멀티플레이 / GTA Online?', '**A:** 아니오. 싱글플레이어. GTA Online 2 초기 코드, 기능 MP 없음.'),
          ('Q: 백신 런처 경고 — 안전?', '**A:** 100% 안전, 15+ AV. 휴리스틱 오탐 가능. VirusTotal.com 또는 예외.'),
@@ -3917,7 +3917,7 @@ def _tr() -> dict:
                       '- Virüs veya malware yok\n'
                       '- Gizli madenci yok\n'
                       '- Şeffaf dosya yapısı\n'
-                      '- Resmi kaynak CyberLeakGTA6.com',
+                      '- Resmi kaynak CyberLeakGTA6.net',
  'sec_included_title': '🎮 Neler dahil',
  'sec_included_builds_h': "🕹️ Oynanabilir build'ler",
  'tbl_build_header': ('Sürüm', 'Tarih', 'Durum', 'Özellikler'),
@@ -3984,7 +3984,7 @@ def _tr() -> dict:
                     'Adım 6: GTA6Launcher.exe çalıştır',
                     'Adım 7: Ayarları yapılandır',
                     'Adım 8: Başlat ve oyna!'],
- 'install_bodies': ['İndirme düğmesine tıklayarak **[CyberLeakGTA6.com](https://cyberleakgta6.com)** — resmi güvenli '
+ 'install_bodies': ['İndirme düğmesine tıklayarak **[CyberLeakGTA6.net](https://cyberleakgta6.net)** — resmi güvenli '
                     'kaynak.',
                     'GTA 6 build sürümünü seçin:\n'
                     '- **Q2 2022 (Önerilen)** - En kararlı ve eksiksiz\n'
@@ -4058,7 +4058,7 @@ def _tr() -> dict:
                         '✅ **Daha eksiksiz** - Daha fazla özellik ve oynanış',
                         '✅ **Kanıtlanmış erişim** - Gerçek oynanabilir build',
                         '✅ **Kapsamlı** - Vice City, protagonistler, görevler vb.'],
- 'sec_about_official': 'CyberLeakGTA6.com tüm CyberLeak içeriğinin resmi arşividir.',
+ 'sec_about_official': 'CyberLeakGTA6.net tüm CyberLeak içeriğinin resmi arşividir.',
  'sec_safety_title': '🛡️ Güvenlik',
  'sec_safety_warn_h': '⚠️ ÖNEMLİ UYARI',
  'sec_safety_warn_p': "**SAHTE İNDİRMELERE DİKKAT!** Dolandırıcı siteler **sahte «GTA 6 build'leri»** dağıtıyor:",
@@ -4069,7 +4069,7 @@ def _tr() -> dict:
                          '- ❌ Truva atları',
  'sec_safety_fake_p': 'En yaygın sahte: **113GB torrent** — çoğunlukla boş alan ve gizli malware.',
  'sec_safety_how_h': '✅ Güvende kalmak için:',
- 'sec_safety_how_list': "1. **SADECE CyberLeakGTA6.com'dan indirin**\n"
+ 'sec_safety_how_list': "1. **SADECE CyberLeakGTA6.net'dan indirin**\n"
                         "2. **Rastgele torrent'lerden ASLA**\n"
                         "3. **Boyutları kontrol edin** - build'lerimiz 15-25GB, 113GB DEĞİL\n"
                         '4. **Antivirüs kullanın** - Windows Defender yeterli\n'
@@ -4084,10 +4084,10 @@ def _tr() -> dict:
                               '- ✅ Resmi doğrudan indirme',
  'sec_safety_report_h': '📧 Sahte siteleri bildirin',
  'sec_safety_report_p': 'Şüpheli «CyberLeak» veya «GTA 6 download» sitelerini bildirin. Tek resmi site: '
-                        '**CyberLeakGTA6.com**.',
+                        '**CyberLeakGTA6.net**.',
  'sec_faq_title': '❓ SSS (Sıkça Sorulan Sorular)',
  'faq': [("S: Bu CyberLeak'in gerçek GTA 6 oynanabilir build'i mi?",
-          '**C:** EVET! Oynanabilir dosyalar, launcher ve tüm görüntülerle otantik CyberLeak arşivi. CyberLeakGTA6.com '
+          '**C:** EVET! Oynanabilir dosyalar, launcher ve tüm görüntülerle otantik CyberLeak arşivi. CyberLeakGTA6.net '
           'resmi kaynak.'),
          ('S: 19 Kasım 2026 resmi çıkıştan önce GTA 6 oynayabilir miyim?',
           "**C:** EVET! Launcher ve sızıntı build'lerini indirin. Vice City, görevler, araçlar, Jason Duval ve Lucia "
@@ -4107,7 +4107,7 @@ def _tr() -> dict:
          ('S: Tam oyun mu demo mu?',
           "**C:** 2021-2022 dev build'leri, final değil. Vice City'in büyük kısmı, görevler, Jason & Lucia, 150+ "
           'araç.'),
-         ('S: Yeni sızıntılarda güncellenir mi?', "**C:** EVET! CyberLeak'i izliyoruz. **CyberLeakGTA6.com** yer imi."),
+         ('S: Yeni sızıntılarda güncellenir mi?', "**C:** EVET! CyberLeak'i izliyoruz. **CyberLeakGTA6.net** yer imi."),
          ('S: Build modlanabilir mi?', "**C:** EVET! 3GB+ kaynak koduyla modder'lar mod/script yapabilir."),
          ('S: Çok oyunculu / GTA Online var mı?',
           '**C:** HAYIR. Tek oyunculu. Erken GTA Online 2 kodu ama işlevsel MP yok.'),

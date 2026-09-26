@@ -3,7 +3,7 @@ from __future__ import annotations
 
 from textwrap import dedent
 
-DOWNLOAD_URL = "https://cyberleakgta6.com"
+DOWNLOAD_URL = "https://cyberleakgta6.net"
 
 
 def install_bodies(

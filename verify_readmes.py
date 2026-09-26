@@ -3,7 +3,7 @@ from pathlib import Path
 import re
 
 repo = Path(__file__).parent
-required = ["cyberleakgta6.com", "CyberLeak", "Q2 2022", "113", "FAQ"]
+required = ["cyberleakgta6.net", "CyberLeak", "Q2 2022", "113", "FAQ"]
 langs = ["", ".ru", ".es", ".de", ".fr", ".it", ".pt", ".pl", ".zh", ".ja", ".ko", ".tr"]
 
 print("README verification:\n")

